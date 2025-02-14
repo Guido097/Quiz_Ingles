@@ -1,0 +1,5002 @@
+[
+    {
+        "ingles": "a",
+        "espanol": "una",
+        "ejemplo": "This is an example sentence with a."
+    },
+    {
+        "ingles": "ability",
+        "espanol": "capacidad",
+        "ejemplo": "This is an example sentence with ability."
+    },
+    {
+        "ingles": "able",
+        "espanol": "poder",
+        "ejemplo": "This is an example sentence with able."
+    },
+    {
+        "ingles": "about",
+        "espanol": "acerca de",
+        "ejemplo": "This is an example sentence with about."
+    },
+    {
+        "ingles": "above",
+        "espanol": "encima",
+        "ejemplo": "This is an example sentence with above."
+    },
+    {
+        "ingles": "access",
+        "espanol": "acceso",
+        "ejemplo": "This is an example sentence with acce ss."
+    },
+    {
+        "ingles": "accept",
+        "espanol": "aceptar",
+        "ejemplo": "This is an example sentence with accept."
+    },
+    {
+        "ingles": "accord",
+        "espanol": "acuerdo",
+        "ejemplo": "This is an example sentence with accord."
+    },
+    {
+        "ingles": "account",
+        "espanol": "cuenta",
+        "ejemplo": "This is an example sentence with account."
+    },
+    {
+        "ingles": "achieve",
+        "espanol": "lograr",
+        "ejemplo": "This is an example sentence with achieve."
+    },
+    {
+        "ingles": "across",
+        "espanol": "a través de",
+        "ejemplo": "This is an example sentence with across."
+    },
+    {
+        "ingles": "act",
+        "espanol": "acto",
+        "ejemplo": "This is an example sentence with act."
+    },
+    {
+        "ingles": "action",
+        "espanol": "acción",
+        "ejemplo": "This is an example sentence with action."
+    },
+    {
+        "ingles": "activity",
+        "espanol": "actividad",
+        "ejemplo": "This is an example sentence with activity."
+    },
+    {
+        "ingles": "actually",
+        "espanol": "en realidad / de hecho",
+        "ejemplo": "This is an example sentence with actually."
+    },
+    {
+        "ingles": "add",
+        "espanol": "añadir",
+        "ejemplo": "This is an example sentence with add."
+    },
+    {
+        "ingles": "addition",
+        "espanol": "adición",
+        "ejemplo": "This is an example sentence with addition."
+    },
+    {
+        "ingles": "address",
+        "espanol": "dirección",
+        "ejemplo": "This is an example sentence with address."
+    },
+    {
+        "ingles": "adult",
+        "espanol": "adulto",
+        "ejemplo": "This is an example sentence with adult."
+    },
+    {
+        "ingles": "advance",
+        "espanol": "avanzar",
+        "ejemplo": "This is an example sentence with advance."
+    },
+    {
+        "ingles": "advantage",
+        "espanol": "ventaja",
+        "ejemplo": "This is an example sentence with advantage."
+    },
+    {
+        "ingles": "affect",
+        "espanol": "afectar",
+        "ejemplo": "This is an example sentence with affect."
+    },
+    {
+        "ingles": "after",
+        "espanol": "después",
+        "ejemplo": "This is an example sentence with after."
+    },
+    {
+        "ingles": "afternoon",
+        "espanol": "tarde",
+        "ejemplo": "This is an example sentence with afternoon."
+    },
+    {
+        "ingles": "again",
+        "espanol": "otra vez",
+        "ejemplo": "This is an example sentence with again."
+    },
+    {
+        "ingles": "against",
+        "espanol": "en contra",
+        "ejemplo": "This is an example sentence with against."
+    },
+    {
+        "ingles": "age",
+        "espanol": "años",
+        "ejemplo": "This is an example sentence with age."
+    },
+    {
+        "ingles": "agency",
+        "espanol": "agencia",
+        "ejemplo": "This is an example sentence with agency."
+    },
+    {
+        "ingles": "agent",
+        "espanol": "agente",
+        "ejemplo": "This is an example sentence with agent."
+    },
+    {
+        "ingles": "ago",
+        "espanol": "hace",
+        "ejemplo": "This is an example sentence with ago."
+    },
+    {
+        "ingles": "agree",
+        "espanol": "de acuerdo",
+        "ejemplo": "This is an example sentence with agree."
+    },
+    {
+        "ingles": "agreement",
+        "espanol": "acuerdo",
+        "ejemplo": "This is an example sentence with agreement."
+    },
+    {
+        "ingles": "ahead",
+        "espanol": "adelante",
+        "ejemplo": "This is an example sentence with ahead."
+    },
+    {
+        "ingles": "aim",
+        "espanol": "objetivo",
+        "ejemplo": "This is an example sentence with aim."
+    },
+    {
+        "ingles": "air",
+        "espanol": "aire",
+        "ejemplo": "This is an example sentence with air."
+    },
+    {
+        "ingles": "all",
+        "espanol": "todos",
+        "ejemplo": "This is an example sentence with all."
+    },
+    {
+        "ingles": "allow",
+        "espanol": "permitir",
+        "ejemplo": "This is an example sentence with allow."
+    },
+    {
+        "ingles": "almost",
+        "espanol": "casi",
+        "ejemplo": "This is an example sentence with almost."
+    },
+    {
+        "ingles": "alone",
+        "espanol": "solo",
+        "ejemplo": "This is an example sentence with alone."
+    },
+    {
+        "ingles": "along",
+        "espanol": "a lo largo",
+        "ejemplo": "This is an example sentence with along."
+    },
+    {
+        "ingles": "already",
+        "espanol": "ya",
+        "ejemplo": "This is an example sentence with already."
+    },
+    {
+        "ingles": "also",
+        "espanol": "además",
+        "ejemplo": "This is an example sentence with also."
+    },
+    {
+        "ingles": "although",
+        "espanol": "a pesar de que",
+        "ejemplo": "This is an example sentence with although."
+    },
+    {
+        "ingles": "always",
+        "espanol": "siempre",
+        "ejemplo": "This is an example sentence with always."
+    },
+    {
+        "ingles": "among",
+        "espanol": "entre",
+        "ejemplo": "This is an example sentence with among."
+    },
+    {
+        "ingles": "amount",
+        "espanol": "cantidad",
+        "ejemplo": "This is an example sentence with amount."
+    },
+    {
+        "ingles": "analysis",
+        "espanol": "análisis",
+        "ejemplo": "This is an example sentence with analysis."
+    },
+    {
+        "ingles": "and",
+        "espanol": "y",
+        "ejemplo": "This is an example sentence with and."
+    },
+    {
+        "ingles": "animal",
+        "espanol": "animal",
+        "ejemplo": "This is an example sentence with animal."
+    },
+    {
+        "ingles": "another",
+        "espanol": "otro",
+        "ejemplo": "This is an example sentence with another."
+    },
+    {
+        "ingles": "answer",
+        "espanol": "responder",
+        "ejemplo": "This is an example sentence with answer."
+    },
+    {
+        "ingles": "any",
+        "espanol": "alguna",
+        "ejemplo": "This is an example sentence with any."
+    },
+    {
+        "ingles": "anyone",
+        "espanol": "nadie",
+        "ejemplo": "This is an example sentence with anyone."
+    },
+    {
+        "ingles": "anything",
+        "espanol": "cualquier cosa",
+        "ejemplo": "This is an example sentence with anything."
+    },
+    {
+        "ingles": "anyway",
+        "espanol": "de todas formas",
+        "ejemplo": "This is an example sentence with anyway."
+    },
+    {
+        "ingles": "appear",
+        "espanol": "aparecer",
+        "ejemplo": "This is an example sentence with appear."
+    },
+    {
+        "ingles": "application",
+        "espanol": "solicitud",
+        "ejemplo": "This is an example sentence with application."
+    },
+    {
+        "ingles": "apply",
+        "espanol": "aplicar",
+        "ejemplo": "This is an example sentence with apply."
+    },
+    {
+        "ingles": "approach",
+        "espanol": "enfoque",
+        "ejemplo": "This is an example sentence with approach."
+    },
+    {
+        "ingles": "area",
+        "espanol": "zona",
+        "ejemplo": "This is an example sentence with area."
+    },
+    {
+        "ingles": "argue",
+        "espanol": "discutir",
+        "ejemplo": "This is an example sentence with argue."
+    },
+    {
+        "ingles": "argument",
+        "espanol": "argumento",
+        "ejemplo": "This is an example sentence with argument."
+    },
+    {
+        "ingles": "arm",
+        "espanol": "brazo",
+        "ejemplo": "This is an example sentence with arm."
+    },
+    {
+        "ingles": "around",
+        "espanol": "alrededor",
+        "ejemplo": "This is an example sentence with around."
+    },
+    {
+        "ingles": "arrive",
+        "espanol": "llegar",
+        "ejemplo": "This is an example sentence with arrive."
+    },
+    {
+        "ingles": "art",
+        "espanol": "arte",
+        "ejemplo": "This is an example sentence with art."
+    },
+    {
+        "ingles": "article",
+        "espanol": "artículo",
+        "ejemplo": "This is an example sentence with article."
+    },
+    {
+        "ingles": "as",
+        "espanol": "como",
+        "ejemplo": "This is an example sentence with as."
+    },
+    {
+        "ingles": "ask",
+        "espanol": "pedir",
+        "ejemplo": "This is an example sentence with ask."
+    },
+    {
+        "ingles": "associate",
+        "espanol": "asociar",
+        "ejemplo": "This is an example sentence with associate."
+    },
+    {
+        "ingles": "assume",
+        "espanol": "asumir",
+        "ejemplo": "This is an example sentence with assume."
+    },
+    {
+        "ingles": "at",
+        "espanol": "en",
+        "ejemplo": "This is an example sentence with at."
+    },
+    {
+        "ingles": "attack",
+        "espanol": "ataque",
+        "ejemplo": "This is an example sentence with attack."
+    },
+    {
+        "ingles": "attempt",
+        "espanol": "intento",
+        "ejemplo": "This is an example sentence with attempt."
+    },
+    {
+        "ingles": "attend",
+        "espanol": "asistir",
+        "ejemplo": "This is an example sentence with attend."
+    },
+    {
+        "ingles": "attention",
+        "espanol": "atención",
+        "ejemplo": "This is an example sentence with attention."
+    },
+    {
+        "ingles": "author",
+        "espanol": "autor",
+        "ejemplo": "This is an example sentence with author."
+    },
+    {
+        "ingles": "available",
+        "espanol": "disponible",
+        "ejemplo": "This is an example sentence with available."
+    },
+    {
+        "ingles": "average",
+        "espanol": "promedio",
+        "ejemplo": "This is an example sentence with average."
+    },
+    {
+        "ingles": "avoid",
+        "espanol": "evitar",
+        "ejemplo": "This is an example sentence with avoid."
+    },
+    {
+        "ingles": "away",
+        "espanol": "lejos",
+        "ejemplo": "This is an example sentence with away."
+    },
+    {
+        "ingles": "baby",
+        "espanol": "bebé",
+        "ejemplo": "This is an example sentence with baby."
+    },
+    {
+        "ingles": "back",
+        "espanol": "atrás",
+        "ejemplo": "This is an example sentence with back."
+    },
+    {
+        "ingles": "bad",
+        "espanol": "malo",
+        "ejemplo": "This is an example sentence with bad."
+    },
+    {
+        "ingles": "balance",
+        "espanol": "equilibrar",
+        "ejemplo": "This is an example sentence with balance."
+    },
+    {
+        "ingles": "bank",
+        "espanol": "banco",
+        "ejemplo": "This is an example sentence with bank."
+    },
+    {
+        "ingles": "bar",
+        "espanol": "bar",
+        "ejemplo": "This is an example sentence with bar."
+    },
+    {
+        "ingles": "base",
+        "espanol": "base",
+        "ejemplo": "This is an example sentence with base."
+    },
+    {
+        "ingles": "basic",
+        "espanol": "básico",
+        "ejemplo": "This is an example sentence with basic."
+    },
+    {
+        "ingles": "basis",
+        "espanol": "base",
+        "ejemplo": "This is an example sentence with basis."
+    },
+    {
+        "ingles": "be",
+        "espanol": "ser o estar",
+        "ejemplo": "This is an example sentence with be."
+    },
+    {
+        "ingles": "bear",
+        "espanol": "oso",
+        "ejemplo": "This is an example sentence with bear."
+    },
+    {
+        "ingles": "beautiful",
+        "espanol": "hermoso",
+        "ejemplo": "This is an example sentence with beautiful."
+    },
+    {
+        "ingles": "because",
+        "espanol": "porque",
+        "ejemplo": "This is an example sentence with because."
+    },
+    {
+        "ingles": "become",
+        "espanol": "volverse",
+        "ejemplo": "This is an example sentence with become."
+    },
+    {
+        "ingles": "bed",
+        "espanol": "cama",
+        "ejemplo": "This is an example sentence with bed."
+    },
+    {
+        "ingles": "before",
+        "espanol": "antes de",
+        "ejemplo": "This is an example sentence with before."
+    },
+    {
+        "ingles": "begin",
+        "espanol": "empezar",
+        "ejemplo": "This is an example sentence with begin."
+    },
+    {
+        "ingles": "behavior",
+        "espanol": "comportamiento",
+        "ejemplo": "This is an example sentence with behavior."
+    },
+    {
+        "ingles": "behind",
+        "espanol": "detrás",
+        "ejemplo": "This is an example sentence with behind."
+    },
+    {
+        "ingles": "believe",
+        "espanol": "creer",
+        "ejemplo": "This is an example sentence with believe."
+    },
+    {
+        "ingles": "below",
+        "espanol": "abajo",
+        "ejemplo": "This is an example sentence with below."
+    },
+    {
+        "ingles": "benefit",
+        "espanol": "beneficio",
+        "ejemplo": "This is an example sentence with benefit."
+    },
+    {
+        "ingles": "between",
+        "espanol": "entre",
+        "ejemplo": "This is an example sentence with between."
+    },
+    {
+        "ingles": "beyond",
+        "espanol": "más allá",
+        "ejemplo": "This is an example sentence with beyond."
+    },
+    {
+        "ingles": "big",
+        "espanol": "grande",
+        "ejemplo": "This is an example sentence with big."
+    },
+    {
+        "ingles": "bill",
+        "espanol": "cuenta",
+        "ejemplo": "This is an example sentence with bill."
+    },
+    {
+        "ingles": "bit",
+        "espanol": "poco",
+        "ejemplo": "This is an example sentence with bit."
+    },
+    {
+        "ingles": "black",
+        "espanol": "negro",
+        "ejemplo": "This is an example sentence with black."
+    },
+    {
+        "ingles": "blue",
+        "espanol": "azul",
+        "ejemplo": "This is an example sentence with blue."
+    },
+    {
+        "ingles": "board",
+        "espanol": "tablero",
+        "ejemplo": "This is an example sentence with board."
+    },
+    {
+        "ingles": "body",
+        "espanol": "cuerpo",
+        "ejemplo": "This is an example sentence with body."
+    },
+    {
+        "ingles": "book",
+        "espanol": "libro",
+        "ejemplo": "This is an example sentence with book."
+    },
+    {
+        "ingles": "both",
+        "espanol": "ambos",
+        "ejemplo": "This is an example sentence with both."
+    },
+    {
+        "ingles": "box",
+        "espanol": "caja",
+        "ejemplo": "This is an example sentence with box."
+    },
+    {
+        "ingles": "boy",
+        "espanol": "niño",
+        "ejemplo": "This is an example sentence with boy."
+    },
+    {
+        "ingles": "break",
+        "espanol": "descanso",
+        "ejemplo": "This is an example sentence with break."
+    },
+    {
+        "ingles": "bring",
+        "espanol": "traer",
+        "ejemplo": "This is an example sentence with bring."
+    },
+    {
+        "ingles": "brother",
+        "espanol": "hermano",
+        "ejemplo": "This is an example sentence with brother."
+    },
+    {
+        "ingles": "build",
+        "espanol": "construir",
+        "ejemplo": "This is an example sentence with build."
+    },
+    {
+        "ingles": "bus",
+        "espanol": "autobús",
+        "ejemplo": "This is an example sentence with bus."
+    },
+    {
+        "ingles": "business",
+        "espanol": "negocio",
+        "ejemplo": "This is an example sentence with business."
+    },
+    {
+        "ingles": "but",
+        "espanol": "pero",
+        "ejemplo": "This is an example sentence with but."
+    },
+    {
+        "ingles": "buy",
+        "espanol": "comprar",
+        "ejemplo": "This is an example sentence with buy."
+    },
+    {
+        "ingles": "by",
+        "espanol": "por",
+        "ejemplo": "This is an example sentence with by."
+    },
+    {
+        "ingles": "call",
+        "espanol": "llamada",
+        "ejemplo": "This is an example sentence with call."
+    },
+    {
+        "ingles": "campaign",
+        "espanol": "campaña",
+        "ejemplo": "This is an example sentence with campaign."
+    },
+    {
+        "ingles": "can",
+        "espanol": "puede",
+        "ejemplo": "This is an example sentence with can."
+    },
+    {
+        "ingles": "capital",
+        "espanol": "capital",
+        "ejemplo": "This is an example sentence with capital."
+    },
+    {
+        "ingles": "car",
+        "espanol": "coche",
+        "ejemplo": "This is an example sentence with car."
+    },
+    {
+        "ingles": "card",
+        "espanol": "tarjeta",
+        "ejemplo": "This is an example sentence with card."
+    },
+    {
+        "ingles": "care",
+        "espanol": "cuidado",
+        "ejemplo": "This is an example sentence with care."
+    },
+    {
+        "ingles": "career",
+        "espanol": "carrera",
+        "ejemplo": "This is an example sentence with career."
+    },
+    {
+        "ingles": "carry",
+        "espanol": "llevar",
+        "ejemplo": "This is an example sentence with carry."
+    },
+    {
+        "ingles": "case",
+        "espanol": "caso",
+        "ejemplo": "This is an example sentence with case."
+    },
+    {
+        "ingles": "catch",
+        "espanol": "captura",
+        "ejemplo": "This is an example sentence with catch."
+    },
+    {
+        "ingles": "cause",
+        "espanol": "porque",
+        "ejemplo": "This is an example sentence with cause."
+    },
+    {
+        "ingles": "cell",
+        "espanol": "célula",
+        "ejemplo": "This is an example sentence with cell."
+    },
+    {
+        "ingles": "cent",
+        "espanol": "centavo",
+        "ejemplo": "This is an example sentence with cent."
+    },
+    {
+        "ingles": "center",
+        "espanol": "centrar",
+        "ejemplo": "This is an example sentence with center."
+    },
+    {
+        "ingles": "central",
+        "espanol": "central",
+        "ejemplo": "This is an example sentence with central."
+    },
+    {
+        "ingles": "century",
+        "espanol": "siglo",
+        "ejemplo": "This is an example sentence with century."
+    },
+    {
+        "ingles": "certain",
+        "espanol": "cierto",
+        "ejemplo": "This is an example sentence with certain."
+    },
+    {
+        "ingles": "certainly",
+        "espanol": "ciertamente",
+        "ejemplo": "This is an example sentence with certainly."
+    },
+    {
+        "ingles": "challenge",
+        "espanol": "reto",
+        "ejemplo": "This is an example sentence with challenge."
+    },
+    {
+        "ingles": "chance",
+        "espanol": "oportunidad",
+        "ejemplo": "This is an example sentence with chance."
+    },
+    {
+        "ingles": "change",
+        "espanol": "cambio",
+        "ejemplo": "This is an example sentence with change."
+    },
+    {
+        "ingles": "character",
+        "espanol": "personaje",
+        "ejemplo": "This is an example sentence with character."
+    },
+    {
+        "ingles": "charge",
+        "espanol": "cargar",
+        "ejemplo": "This is an example sentence with charge."
+    },
+    {
+        "ingles": "check",
+        "espanol": "comprobar",
+        "ejemplo": "This is an example sentence with check."
+    },
+    {
+        "ingles": "child",
+        "espanol": "niño",
+        "ejemplo": "This is an example sentence with child."
+    },
+    {
+        "ingles": "choice",
+        "espanol": "elección",
+        "ejemplo": "This is an example sentence with choice."
+    },
+    {
+        "ingles": "choose",
+        "espanol": "escoger",
+        "ejemplo": "This is an example sentence with choose."
+    },
+    {
+        "ingles": "church",
+        "espanol": "Iglesia",
+        "ejemplo": "This is an example sentence with church."
+    },
+    {
+        "ingles": "city",
+        "espanol": "ciudad",
+        "ejemplo": "This is an example sentence with city."
+    },
+    {
+        "ingles": "claim",
+        "espanol": "reclamación",
+        "ejemplo": "This is an example sentence with claim."
+    },
+    {
+        "ingles": "class",
+        "espanol": "clase",
+        "ejemplo": "This is an example sentence with class."
+    },
+    {
+        "ingles": "clean",
+        "espanol": "limpiar",
+        "ejemplo": "This is an example sentence with clean."
+    },
+    {
+        "ingles": "clear",
+        "espanol": "claro",
+        "ejemplo": "This is an example sentence with clear."
+    },
+    {
+        "ingles": "clearly",
+        "espanol": "claramente",
+        "ejemplo": "This is an example sentence with clearly."
+    },
+    {
+        "ingles": "clock",
+        "espanol": "reloj",
+        "ejemplo": "This is an example sentence with clock."
+    },
+    {
+        "ingles": "close",
+        "espanol": "cerrar",
+        "ejemplo": "This is an example sentence with close."
+    },
+    {
+        "ingles": "clothes",
+        "espanol": "ropa",
+        "ejemplo": "This is an example sentence with clothes."
+    },
+    {
+        "ingles": "club",
+        "espanol": "club",
+        "ejemplo": "This is an example sentence with club."
+    },
+    {
+        "ingles": "cold",
+        "espanol": "frío",
+        "ejemplo": "This is an example sentence with cold."
+    },
+    {
+        "ingles": "college",
+        "espanol": "universidad",
+        "ejemplo": "This is an example sentence with college."
+    },
+    {
+        "ingles": "color",
+        "espanol": "color",
+        "ejemplo": "This is an example sentence with color."
+    },
+    {
+        "ingles": "come",
+        "espanol": "ven",
+        "ejemplo": "This is an example sentence with come."
+    },
+    {
+        "ingles": "comment",
+        "espanol": "comentario",
+        "ejemplo": "This is an example sentence with comment."
+    },
+    {
+        "ingles": "common",
+        "espanol": "común",
+        "ejemplo": "This is an example sentence with common."
+    },
+    {
+        "ingles": "communication",
+        "espanol": "comunicación",
+        "ejemplo": "This is an example sentence with communication."
+    },
+    {
+        "ingles": "community",
+        "espanol": "comunidad",
+        "ejemplo": "This is an example sentence with community."
+    },
+    {
+        "ingles": "company",
+        "espanol": "empresa",
+        "ejemplo": "This is an example sentence with company."
+    },
+    {
+        "ingles": "compare",
+        "espanol": "comparar",
+        "ejemplo": "This is an example sentence with compare."
+    },
+    {
+        "ingles": "competition",
+        "espanol": "competencia",
+        "ejemplo": "This is an example sentence with competition."
+    },
+    {
+        "ingles": "complete",
+        "espanol": "completar",
+        "ejemplo": "This is an example sentence with complete."
+    },
+    {
+        "ingles": "completely",
+        "espanol": "completamente",
+        "ejemplo": "This is an example sentence with completely."
+    },
+    {
+        "ingles": "computer",
+        "espanol": "computadora",
+        "ejemplo": "This is an example sentence with computer."
+    },
+    {
+        "ingles": "concern",
+        "espanol": "preocupación",
+        "ejemplo": "This is an example sentence with concern."
+    },
+    {
+        "ingles": "conclusion",
+        "espanol": "conclusión",
+        "ejemplo": "This is an example sentence with conclusion."
+    },
+    {
+        "ingles": "condition",
+        "espanol": "condición",
+        "ejemplo": "This is an example sentence with condition."
+    },
+    {
+        "ingles": "consider",
+        "espanol": "considerar",
+        "ejemplo": "This is an example sentence with consider."
+    },
+    {
+        "ingles": "contact",
+        "espanol": "contacto",
+        "ejemplo": "This is an example sentence with contact."
+    },
+    {
+        "ingles": "contain",
+        "espanol": "contiene",
+        "ejemplo": "This is an example sentence with contain."
+    },
+    {
+        "ingles": "continue",
+        "espanol": "continuar",
+        "ejemplo": "This is an example sentence with continue."
+    },
+    {
+        "ingles": "contract",
+        "espanol": "contrato",
+        "ejemplo": "This is an example sentence with contract."
+    },
+    {
+        "ingles": "control",
+        "espanol": "controlar",
+        "ejemplo": "This is an example sentence with control."
+    },
+    {
+        "ingles": "conversation",
+        "espanol": "conversacion",
+        "ejemplo": "This is an example sentence with conversation."
+    },
+    {
+        "ingles": "cost",
+        "espanol": "costo",
+        "ejemplo": "This is an example sentence with cost."
+    },
+    {
+        "ingles": "could",
+        "espanol": "podría",
+        "ejemplo": "This is an example sentence with could."
+    },
+    {
+        "ingles": "country",
+        "espanol": "país",
+        "ejemplo": "This is an example sentence with country."
+    },
+    {
+        "ingles": "couple",
+        "espanol": "Pareja",
+        "ejemplo": "This is an example sentence with couple."
+    },
+    {
+        "ingles": "course",
+        "espanol": "curso",
+        "ejemplo": "This is an example sentence with course."
+    },
+    {
+        "ingles": "court",
+        "espanol": "corte",
+        "ejemplo": "This is an example sentence with court."
+    },
+    {
+        "ingles": "cover",
+        "espanol": "cubrir",
+        "ejemplo": "This is an example sentence with cover."
+    },
+    {
+        "ingles": "create",
+        "espanol": "crear",
+        "ejemplo": "This is an example sentence with create."
+    },
+    {
+        "ingles": "credit",
+        "espanol": "crédito",
+        "ejemplo": "This is an example sentence with credit."
+    },
+    {
+        "ingles": "cross",
+        "espanol": "cruzar",
+        "ejemplo": "This is an example sentence with cross."
+    },
+    {
+        "ingles": "culture",
+        "espanol": "cultura",
+        "ejemplo": "This is an example sentence with culture."
+    },
+    {
+        "ingles": "current",
+        "espanol": "corriente",
+        "ejemplo": "This is an example sentence with current."
+    },
+    {
+        "ingles": "customer",
+        "espanol": "cliente",
+        "ejemplo": "This is an example sentence with customer."
+    },
+    {
+        "ingles": "cut",
+        "espanol": "cortar",
+        "ejemplo": "This is an example sentence with cut."
+    },
+    {
+        "ingles": "daily",
+        "espanol": "diario",
+        "ejemplo": "This is an example sentence with daily."
+    },
+    {
+        "ingles": "damage",
+        "espanol": "dañar",
+        "ejemplo": "This is an example sentence with damage."
+    },
+    {
+        "ingles": "dance",
+        "espanol": "baile / danza",
+        "ejemplo": "This is an example sentence with dance."
+    },
+    {
+        "ingles": "dark",
+        "espanol": "oscuro",
+        "ejemplo": "This is an example sentence with dark."
+    },
+    {
+        "ingles": "data",
+        "espanol": "datos",
+        "ejemplo": "This is an example sentence with data."
+    },
+    {
+        "ingles": "date",
+        "espanol": "fecha",
+        "ejemplo": "This is an example sentence with date."
+    },
+    {
+        "ingles": "daughter",
+        "espanol": "hija",
+        "ejemplo": "This is an example sentence with daughter."
+    },
+    {
+        "ingles": "day",
+        "espanol": "día",
+        "ejemplo": "This is an example sentence with day."
+    },
+    {
+        "ingles": "dead",
+        "espanol": "muerto",
+        "ejemplo": "This is an example sentence with dead."
+    },
+    {
+        "ingles": "deal",
+        "espanol": "acuerdo",
+        "ejemplo": "This is an example sentence with deal."
+    },
+    {
+        "ingles": "death",
+        "espanol": "muerte",
+        "ejemplo": "This is an example sentence with death."
+    },
+    {
+        "ingles": "debate",
+        "espanol": "debate",
+        "ejemplo": "This is an example sentence with debate."
+    },
+    {
+        "ingles": "decide",
+        "espanol": "decidir",
+        "ejemplo": "This is an example sentence with decide."
+    },
+    {
+        "ingles": "decision",
+        "espanol": "decisión",
+        "ejemplo": "This is an example sentence with decision."
+    },
+    {
+        "ingles": "deep",
+        "espanol": "profundo",
+        "ejemplo": "This is an example sentence with deep."
+    },
+    {
+        "ingles": "define",
+        "espanol": "definir",
+        "ejemplo": "This is an example sentence with define."
+    },
+    {
+        "ingles": "degree",
+        "espanol": "la licenciatura",
+        "ejemplo": "This is an example sentence with degree."
+    },
+    {
+        "ingles": "demand",
+        "espanol": "demanda",
+        "ejemplo": "This is an example sentence with demand."
+    },
+    {
+        "ingles": "department",
+        "espanol": "departamento",
+        "ejemplo": "This is an example sentence with department."
+    },
+    {
+        "ingles": "depend",
+        "espanol": "depender",
+        "ejemplo": "This is an example sentence with depend."
+    },
+    {
+        "ingles": "describe",
+        "espanol": "describir",
+        "ejemplo": "This is an example sentence with describe."
+    },
+    {
+        "ingles": "design",
+        "espanol": "diseño",
+        "ejemplo": "This is an example sentence with design."
+    },
+    {
+        "ingles": "despite",
+        "espanol": "a pesar de",
+        "ejemplo": "This is an example sentence with despite."
+    },
+    {
+        "ingles": "detail",
+        "espanol": "detalle",
+        "ejemplo": "This is an example sentence with detail."
+    },
+    {
+        "ingles": "determine",
+        "espanol": "determinar",
+        "ejemplo": "This is an example sentence with determine."
+    },
+    {
+        "ingles": "develop",
+        "espanol": "desarrollar",
+        "ejemplo": "This is an example sentence with develop."
+    },
+    {
+        "ingles": "development",
+        "espanol": "desarrollo",
+        "ejemplo": "This is an example sentence with development."
+    },
+    {
+        "ingles": "die",
+        "espanol": "morir",
+        "ejemplo": "This is an example sentence with die."
+    },
+    {
+        "ingles": "difference",
+        "espanol": "diferencia",
+        "ejemplo": "This is an example sentence with difference."
+    },
+    {
+        "ingles": "different",
+        "espanol": "diferente",
+        "ejemplo": "This is an example sentence with different."
+    },
+    {
+        "ingles": "difficult",
+        "espanol": "difícil",
+        "ejemplo": "This is an example sentence with difficult."
+    },
+    {
+        "ingles": "difficulty",
+        "espanol": "dificultad",
+        "ejemplo": "This is an example sentence with difficulty."
+    },
+    {
+        "ingles": "direct",
+        "espanol": "directo",
+        "ejemplo": "This is an example sentence with direct."
+    },
+    {
+        "ingles": "direction",
+        "espanol": "dirección",
+        "ejemplo": "This is an example sentence with direction."
+    },
+    {
+        "ingles": "director",
+        "espanol": "director",
+        "ejemplo": "This is an example sentence with director."
+    },
+    {
+        "ingles": "discover",
+        "espanol": "descubrir",
+        "ejemplo": "This is an example sentence with discover."
+    },
+    {
+        "ingles": "discuss",
+        "espanol": "discutir",
+        "ejemplo": "This is an example sentence with discuss."
+    },
+    {
+        "ingles": "discussion",
+        "espanol": "discusión",
+        "ejemplo": "This is an example sentence with discussion."
+    },
+    {
+        "ingles": "disease",
+        "espanol": "enfermedad",
+        "ejemplo": "This is an example sentence with disease."
+    },
+    {
+        "ingles": "do",
+        "espanol": "hacer",
+        "ejemplo": "This is an example sentence with do."
+    },
+    {
+        "ingles": "doctor",
+        "espanol": "doctor",
+        "ejemplo": "This is an example sentence with doctor."
+    },
+    {
+        "ingles": "document",
+        "espanol": "documento",
+        "ejemplo": "This is an example sentence with document."
+    },
+    {
+        "ingles": "dog",
+        "espanol": "perro",
+        "ejemplo": "This is an example sentence with dog."
+    },
+    {
+        "ingles": "dollar",
+        "espanol": "dólar",
+        "ejemplo": "This is an example sentence with dollar."
+    },
+    {
+        "ingles": "door",
+        "espanol": "puerta",
+        "ejemplo": "This is an example sentence with door."
+    },
+    {
+        "ingles": "doubt",
+        "espanol": "duda",
+        "ejemplo": "This is an example sentence with doubt."
+    },
+    {
+        "ingles": "down",
+        "espanol": "abajo",
+        "ejemplo": "This is an example sentence with down."
+    },
+    {
+        "ingles": "draw",
+        "espanol": "dibujar",
+        "ejemplo": "This is an example sentence with draw."
+    },
+    {
+        "ingles": "dream",
+        "espanol": "sueño",
+        "ejemplo": "This is an example sentence with dream."
+    },
+    {
+        "ingles": "dress",
+        "espanol": "vestido",
+        "ejemplo": "This is an example sentence with dress."
+    },
+    {
+        "ingles": "drink",
+        "espanol": "beber",
+        "ejemplo": "This is an example sentence with drink."
+    },
+    {
+        "ingles": "drive",
+        "espanol": "conducir",
+        "ejemplo": "This is an example sentence with drive."
+    },
+    {
+        "ingles": "drop",
+        "espanol": "soltar",
+        "ejemplo": "This is an example sentence with drop."
+    },
+    {
+        "ingles": "drug",
+        "espanol": "fármaco",
+        "ejemplo": "This is an example sentence with drug."
+    },
+    {
+        "ingles": "due",
+        "espanol": "debido",
+        "ejemplo": "This is an example sentence with due."
+    },
+    {
+        "ingles": "during",
+        "espanol": "durante",
+        "ejemplo": "This is an example sentence with during."
+    },
+    {
+        "ingles": "each",
+        "espanol": "cada",
+        "ejemplo": "This is an example sentence with each."
+    },
+    {
+        "ingles": "early",
+        "espanol": "temprano",
+        "ejemplo": "This is an example sentence with early."
+    },
+    {
+        "ingles": "earn",
+        "espanol": "ganar",
+        "ejemplo": "This is an example sentence with earn."
+    },
+    {
+        "ingles": "easily",
+        "espanol": "fácilmente",
+        "ejemplo": "This is an example sentence with easily."
+    },
+    {
+        "ingles": "easy",
+        "espanol": "fácil",
+        "ejemplo": "This is an example sentence with easy."
+    },
+    {
+        "ingles": "eat",
+        "espanol": "comer",
+        "ejemplo": "This is an example sentence with eat."
+    },
+    {
+        "ingles": "economic",
+        "espanol": "económico",
+        "ejemplo": "This is an example sentence with economic."
+    },
+    {
+        "ingles": "economy",
+        "espanol": "economía",
+        "ejemplo": "This is an example sentence with economy."
+    },
+    {
+        "ingles": "education",
+        "espanol": "educación",
+        "ejemplo": "This is an example sentence with education."
+    },
+    {
+        "ingles": "effect",
+        "espanol": "efecto",
+        "ejemplo": "This is an example sentence with effect."
+    },
+    {
+        "ingles": "effort",
+        "espanol": "esfuerzo",
+        "ejemplo": "This is an example sentence with effort."
+    },
+    {
+        "ingles": "either",
+        "espanol": "ya sea",
+        "ejemplo": "This is an example sentence with either."
+    },
+    {
+        "ingles": "election",
+        "espanol": "elección",
+        "ejemplo": "This is an example sentence with election."
+    },
+    {
+        "ingles": "else",
+        "espanol": "más",
+        "ejemplo": "This is an example sentence with else."
+    },
+    {
+        "ingles": "employee",
+        "espanol": "empleado",
+        "ejemplo": "This is an example sentence with employee."
+    },
+    {
+        "ingles": "encourage",
+        "espanol": "animar",
+        "ejemplo": "This is an example sentence with encourage."
+    },
+    {
+        "ingles": "end",
+        "espanol": "fin",
+        "ejemplo": "This is an example sentence with end."
+    },
+    {
+        "ingles": "energy",
+        "espanol": "energía",
+        "ejemplo": "This is an example sentence with energy."
+    },
+    {
+        "ingles": "enjoy",
+        "espanol": "disfrutar",
+        "ejemplo": "This is an example sentence with enjoy."
+    },
+    {
+        "ingles": "enough",
+        "espanol": "suficiente",
+        "ejemplo": "This is an example sentence with enough."
+    },
+    {
+        "ingles": "enter",
+        "espanol": "entrar",
+        "ejemplo": "This is an example sentence with enter."
+    },
+    {
+        "ingles": "environment",
+        "espanol": "ambiente",
+        "ejemplo": "This is an example sentence with environment."
+    },
+    {
+        "ingles": "especially",
+        "espanol": "especialmente",
+        "ejemplo": "This is an example sentence with especially."
+    },
+    {
+        "ingles": "establish",
+        "espanol": "establecer",
+        "ejemplo": "This is an example sentence with establish."
+    },
+    {
+        "ingles": "estimate",
+        "espanol": "estimado",
+        "ejemplo": "This is an example sentence with estimate."
+    },
+    {
+        "ingles": "even",
+        "espanol": "incluso",
+        "ejemplo": "This is an example sentence with even."
+    },
+    {
+        "ingles": "evening",
+        "espanol": "noche",
+        "ejemplo": "This is an example sentence with evening."
+    },
+    {
+        "ingles": "event",
+        "espanol": "evento",
+        "ejemplo": "This is an example sentence with event."
+    },
+    {
+        "ingles": "ever",
+        "espanol": "siempre",
+        "ejemplo": "This is an example sentence with ever."
+    },
+    {
+        "ingles": "every",
+        "espanol": "cada",
+        "ejemplo": "This is an example sentence with every."
+    },
+    {
+        "ingles": "everybody",
+        "espanol": "todos",
+        "ejemplo": "This is an example sentence with everybody."
+    },
+    {
+        "ingles": "everyone",
+        "espanol": "todo el mundo",
+        "ejemplo": "This is an example sentence with everyone."
+    },
+    {
+        "ingles": "everything",
+        "espanol": "todo",
+        "ejemplo": "This is an example sentence with everything."
+    },
+    {
+        "ingles": "evidence",
+        "espanol": "evidencia",
+        "ejemplo": "This is an example sentence with evidence."
+    },
+    {
+        "ingles": "exactly",
+        "espanol": "exactamente",
+        "ejemplo": "This is an example sentence with exactly."
+    },
+    {
+        "ingles": "example",
+        "espanol": "ejemplo",
+        "ejemplo": "This is an example sentence with example."
+    },
+    {
+        "ingles": "except",
+        "espanol": "excepto",
+        "ejemplo": "This is an example sentence with except."
+    },
+    {
+        "ingles": "exercise",
+        "espanol": "ejercicio",
+        "ejemplo": "This is an example sentence with exercise."
+    },
+    {
+        "ingles": "exist",
+        "espanol": "existe",
+        "ejemplo": "This is an example sentence with exist."
+    },
+    {
+        "ingles": "expect",
+        "espanol": "esperar",
+        "ejemplo": "This is an example sentence with expect."
+    },
+    {
+        "ingles": "experience",
+        "espanol": "experiencia",
+        "ejemplo": "This is an example sentence with experience."
+    },
+    {
+        "ingles": "explain",
+        "espanol": "explique",
+        "ejemplo": "This is an example sentence with explain."
+    },
+    {
+        "ingles": "express",
+        "espanol": "expresar",
+        "ejemplo": "This is an example sentence with express."
+    },
+    {
+        "ingles": "extend",
+        "espanol": "ampliar",
+        "ejemplo": "This is an example sentence with extend."
+    },
+    {
+        "ingles": "eye",
+        "espanol": "ojo",
+        "ejemplo": "This is an example sentence with eye."
+    },
+    {
+        "ingles": "face",
+        "espanol": "cara",
+        "ejemplo": "This is an example sentence with face."
+    },
+    {
+        "ingles": "facility",
+        "espanol": "instalaciones",
+        "ejemplo": "This is an example sentence with facility."
+    },
+    {
+        "ingles": "fact",
+        "espanol": "hecho",
+        "ejemplo": "This is an example sentence with fact."
+    },
+    {
+        "ingles": "factor",
+        "espanol": "factor",
+        "ejemplo": "This is an example sentence with factor."
+    },
+    {
+        "ingles": "fail",
+        "espanol": "fallar",
+        "ejemplo": "This is an example sentence with fail."
+    },
+    {
+        "ingles": "fall",
+        "espanol": "otoño",
+        "ejemplo": "This is an example sentence with fall."
+    },
+    {
+        "ingles": "family",
+        "espanol": "familia",
+        "ejemplo": "This is an example sentence with family."
+    },
+    {
+        "ingles": "far",
+        "espanol": "lejos",
+        "ejemplo": "This is an example sentence with far."
+    },
+    {
+        "ingles": "fast",
+        "espanol": "rápido",
+        "ejemplo": "This is an example sentence with fast."
+    },
+    {
+        "ingles": "father",
+        "espanol": "padre",
+        "ejemplo": "This is an example sentence with father."
+    },
+    {
+        "ingles": "favorite",
+        "espanol": "favorito",
+        "ejemplo": "This is an example sentence with favorite."
+    },
+    {
+        "ingles": "fear",
+        "espanol": "temor",
+        "ejemplo": "This is an example sentence with fear."
+    },
+    {
+        "ingles": "feature",
+        "espanol": "característica",
+        "ejemplo": "This is an example sentence with feature."
+    },
+    {
+        "ingles": "feel",
+        "espanol": "sensación",
+        "ejemplo": "This is an example sentence with feel."
+    },
+    {
+        "ingles": "female",
+        "espanol": "hembra",
+        "ejemplo": "This is an example sentence with female."
+    },
+    {
+        "ingles": "few",
+        "espanol": "pocos",
+        "ejemplo": "This is an example sentence with few."
+    },
+    {
+        "ingles": "field",
+        "espanol": "campo",
+        "ejemplo": "This is an example sentence with field."
+    },
+    {
+        "ingles": "fight",
+        "espanol": "lucha",
+        "ejemplo": "This is an example sentence with fight."
+    },
+    {
+        "ingles": "figure",
+        "espanol": "figura",
+        "ejemplo": "This is an example sentence with figure."
+    },
+    {
+        "ingles": "file",
+        "espanol": "expediente",
+        "ejemplo": "This is an example sentence with file."
+    },
+    {
+        "ingles": "fill",
+        "espanol": "llenar",
+        "ejemplo": "This is an example sentence with fill."
+    },
+    {
+        "ingles": "film",
+        "espanol": "película",
+        "ejemplo": "This is an example sentence with film."
+    },
+    {
+        "ingles": "final",
+        "espanol": "final",
+        "ejemplo": "This is an example sentence with final."
+    },
+    {
+        "ingles": "finally",
+        "espanol": "finalmente",
+        "ejemplo": "This is an example sentence with finally."
+    },
+    {
+        "ingles": "financial",
+        "espanol": "financiero",
+        "ejemplo": "This is an example sentence with financial."
+    },
+    {
+        "ingles": "find",
+        "espanol": "encontrar",
+        "ejemplo": "This is an example sentence with find."
+    },
+    {
+        "ingles": "fine",
+        "espanol": "multa",
+        "ejemplo": "This is an example sentence with fine."
+    },
+    {
+        "ingles": "finish",
+        "espanol": "terminar",
+        "ejemplo": "This is an example sentence with finish."
+    },
+    {
+        "ingles": "fire",
+        "espanol": "fuego",
+        "ejemplo": "This is an example sentence with fire."
+    },
+    {
+        "ingles": "firm",
+        "espanol": "sólido, firme",
+        "ejemplo": "This is an example sentence with firm."
+    },
+    {
+        "ingles": "first",
+        "espanol": "primero",
+        "ejemplo": "This is an example sentence with first."
+    },
+    {
+        "ingles": "fish",
+        "espanol": "pez",
+        "ejemplo": "This is an example sentence with fish."
+    },
+    {
+        "ingles": "fit",
+        "espanol": "ajuste",
+        "ejemplo": "This is an example sentence with fit."
+    },
+    {
+        "ingles": "fix",
+        "espanol": "fijar",
+        "ejemplo": "This is an example sentence with fix."
+    },
+    {
+        "ingles": "floor",
+        "espanol": "piso",
+        "ejemplo": "This is an example sentence with floor."
+    },
+    {
+        "ingles": "fly",
+        "espanol": "volar",
+        "ejemplo": "This is an example sentence with fly."
+    },
+    {
+        "ingles": "focus",
+        "espanol": "atención",
+        "ejemplo": "This is an example sentence with focus."
+    },
+    {
+        "ingles": "follow",
+        "espanol": "seguir",
+        "ejemplo": "This is an example sentence with follow."
+    },
+    {
+        "ingles": "food",
+        "espanol": "comida",
+        "ejemplo": "This is an example sentence with food."
+    },
+    {
+        "ingles": "foot",
+        "espanol": "pie",
+        "ejemplo": "This is an example sentence with foot."
+    },
+    {
+        "ingles": "for",
+        "espanol": "para",
+        "ejemplo": "This is an example sentence with for."
+    },
+    {
+        "ingles": "force",
+        "espanol": "fuerza",
+        "ejemplo": "This is an example sentence with force."
+    },
+    {
+        "ingles": "foreign",
+        "espanol": "extranjero",
+        "ejemplo": "This is an example sentence with foreign."
+    },
+    {
+        "ingles": "forget",
+        "espanol": "olvidar",
+        "ejemplo": "This is an example sentence with forget."
+    },
+    {
+        "ingles": "form",
+        "espanol": "formar",
+        "ejemplo": "This is an example sentence with form."
+    },
+    {
+        "ingles": "former",
+        "espanol": "ex",
+        "ejemplo": "This is an example sentence with former."
+    },
+    {
+        "ingles": "forward",
+        "espanol": "adelante",
+        "ejemplo": "This is an example sentence with forward."
+    },
+    {
+        "ingles": "free",
+        "espanol": "gratis",
+        "ejemplo": "This is an example sentence with free."
+    },
+    {
+        "ingles": "friend",
+        "espanol": "amigo",
+        "ejemplo": "This is an example sentence with friend."
+    },
+    {
+        "ingles": "from",
+        "espanol": "desde",
+        "ejemplo": "This is an example sentence with from."
+    },
+    {
+        "ingles": "front",
+        "espanol": "frente",
+        "ejemplo": "This is an example sentence with front."
+    },
+    {
+        "ingles": "full",
+        "espanol": "completo",
+        "ejemplo": "This is an example sentence with full."
+    },
+    {
+        "ingles": "fun",
+        "espanol": "divertido",
+        "ejemplo": "This is an example sentence with fun."
+    },
+    {
+        "ingles": "function",
+        "espanol": "función",
+        "ejemplo": "This is an example sentence with function."
+    },
+    {
+        "ingles": "fund",
+        "espanol": "financiar",
+        "ejemplo": "This is an example sentence with fund."
+    },
+    {
+        "ingles": "further",
+        "espanol": "promover",
+        "ejemplo": "This is an example sentence with further."
+    },
+    {
+        "ingles": "future",
+        "espanol": "futuro",
+        "ejemplo": "This is an example sentence with future."
+    },
+    {
+        "ingles": "gain",
+        "espanol": "ganancia",
+        "ejemplo": "This is an example sentence with gain."
+    },
+    {
+        "ingles": "game",
+        "espanol": "juego",
+        "ejemplo": "This is an example sentence with game."
+    },
+    {
+        "ingles": "garden",
+        "espanol": "jardín",
+        "ejemplo": "This is an example sentence with garden."
+    },
+    {
+        "ingles": "general",
+        "espanol": "general",
+        "ejemplo": "This is an example sentence with general."
+    },
+    {
+        "ingles": "generally",
+        "espanol": "generalmente",
+        "ejemplo": "This is an example sentence with generally."
+    },
+    {
+        "ingles": "generation",
+        "espanol": "Generacion",
+        "ejemplo": "This is an example sentence with generation."
+    },
+    {
+        "ingles": "get",
+        "espanol": "obtener",
+        "ejemplo": "This is an example sentence with get."
+    },
+    {
+        "ingles": "girl",
+        "espanol": "niña",
+        "ejemplo": "This is an example sentence with girl."
+    },
+    {
+        "ingles": "give",
+        "espanol": "dar",
+        "ejemplo": "This is an example sentence with give."
+    },
+    {
+        "ingles": "go",
+        "espanol": "ir",
+        "ejemplo": "This is an example sentence with go."
+    },
+    {
+        "ingles": "goal",
+        "espanol": "gol",
+        "ejemplo": "This is an example sentence with goal."
+    },
+    {
+        "ingles": "good",
+        "espanol": "bueno",
+        "ejemplo": "This is an example sentence with good."
+    },
+    {
+        "ingles": "government",
+        "espanol": "gobierno",
+        "ejemplo": "This is an example sentence with government."
+    },
+    {
+        "ingles": "great",
+        "espanol": "genial",
+        "ejemplo": "This is an example sentence with great."
+    },
+    {
+        "ingles": "green",
+        "espanol": "verde",
+        "ejemplo": "This is an example sentence with green."
+    },
+    {
+        "ingles": "ground",
+        "espanol": "suelo",
+        "ejemplo": "This is an example sentence with ground."
+    },
+    {
+        "ingles": "group",
+        "espanol": "grupo",
+        "ejemplo": "This is an example sentence with group."
+    },
+    {
+        "ingles": "grow",
+        "espanol": "crecer",
+        "ejemplo": "This is an example sentence with grow."
+    },
+    {
+        "ingles": "growth",
+        "espanol": "crecimiento",
+        "ejemplo": "This is an example sentence with growth."
+    },
+    {
+        "ingles": "guess",
+        "espanol": "adivinar",
+        "ejemplo": "This is an example sentence with guess."
+    },
+    {
+        "ingles": "guy",
+        "espanol": "chico",
+        "ejemplo": "This is an example sentence with guy."
+    },
+    {
+        "ingles": "hair",
+        "espanol": "pelo",
+        "ejemplo": "This is an example sentence with hair."
+    },
+    {
+        "ingles": "half",
+        "espanol": "mitad",
+        "ejemplo": "This is an example sentence with half."
+    },
+    {
+        "ingles": "hand",
+        "espanol": "mano",
+        "ejemplo": "This is an example sentence with hand."
+    },
+    {
+        "ingles": "happen",
+        "espanol": "ocurrir",
+        "ejemplo": "This is an example sentence with happen."
+    },
+    {
+        "ingles": "happy",
+        "espanol": "feliz",
+        "ejemplo": "This is an example sentence with happy."
+    },
+    {
+        "ingles": "hard",
+        "espanol": "difícil",
+        "ejemplo": "This is an example sentence with hard."
+    },
+    {
+        "ingles": "have",
+        "espanol": "tener",
+        "ejemplo": "This is an example sentence with have."
+    },
+    {
+        "ingles": "he",
+        "espanol": "él",
+        "ejemplo": "This is an example sentence with he."
+    },
+    {
+        "ingles": "head",
+        "espanol": "cabeza",
+        "ejemplo": "This is an example sentence with head."
+    },
+    {
+        "ingles": "health",
+        "espanol": "salud",
+        "ejemplo": "This is an example sentence with health."
+    },
+    {
+        "ingles": "hear",
+        "espanol": "oír",
+        "ejemplo": "This is an example sentence with hear."
+    },
+    {
+        "ingles": "heart",
+        "espanol": "corazón",
+        "ejemplo": "This is an example sentence with heart."
+    },
+    {
+        "ingles": "help",
+        "espanol": "ayuda",
+        "ejemplo": "This is an example sentence with help."
+    },
+    {
+        "ingles": "here",
+        "espanol": "aquí",
+        "ejemplo": "This is an example sentence with here."
+    },
+    {
+        "ingles": "herself",
+        "espanol": "Ella misma",
+        "ejemplo": "This is an example sentence with herself."
+    },
+    {
+        "ingles": "high",
+        "espanol": "alto",
+        "ejemplo": "This is an example sentence with high."
+    },
+    {
+        "ingles": "himself",
+        "espanol": "él mismo",
+        "ejemplo": "This is an example sentence with himself."
+    },
+    {
+        "ingles": "history",
+        "espanol": "historia",
+        "ejemplo": "This is an example sentence with history."
+    },
+    {
+        "ingles": "hit",
+        "espanol": "golpear",
+        "ejemplo": "This is an example sentence with hit."
+    },
+    {
+        "ingles": "hold",
+        "espanol": "sostener",
+        "ejemplo": "This is an example sentence with hold."
+    },
+    {
+        "ingles": "holiday",
+        "espanol": "vacaciones",
+        "ejemplo": "This is an example sentence with holiday."
+    },
+    {
+        "ingles": "home",
+        "espanol": "casa",
+        "ejemplo": "This is an example sentence with home."
+    },
+    {
+        "ingles": "hope",
+        "espanol": "esperanza",
+        "ejemplo": "This is an example sentence with hope."
+    },
+    {
+        "ingles": "hospital",
+        "espanol": "hospital",
+        "ejemplo": "This is an example sentence with hospital."
+    },
+    {
+        "ingles": "hot",
+        "espanol": "caliente",
+        "ejemplo": "This is an example sentence with hot."
+    },
+    {
+        "ingles": "hotel",
+        "espanol": "hotel",
+        "ejemplo": "This is an example sentence with hotel."
+    },
+    {
+        "ingles": "hour",
+        "espanol": "hora",
+        "ejemplo": "This is an example sentence with hour."
+    },
+    {
+        "ingles": "house",
+        "espanol": "casa",
+        "ejemplo": "This is an example sentence with house."
+    },
+    {
+        "ingles": "how",
+        "espanol": "cómo",
+        "ejemplo": "This is an example sentence with how."
+    },
+    {
+        "ingles": "however",
+        "espanol": "sin embargo",
+        "ejemplo": "This is an example sentence with however."
+    },
+    {
+        "ingles": "huge",
+        "espanol": "enorme",
+        "ejemplo": "This is an example sentence with huge."
+    },
+    {
+        "ingles": "human",
+        "espanol": "humano",
+        "ejemplo": "This is an example sentence with human."
+    },
+    {
+        "ingles": "husband",
+        "espanol": "marido",
+        "ejemplo": "This is an example sentence with husband."
+    },
+    {
+        "ingles": "i",
+        "espanol": "yo",
+        "ejemplo": "This is an example sentence with i."
+    },
+    {
+        "ingles": "idea",
+        "espanol": "idea",
+        "ejemplo": "This is an example sentence with idea."
+    },
+    {
+        "ingles": "identify",
+        "espanol": "identificar",
+        "ejemplo": "This is an example sentence with identify."
+    },
+    {
+        "ingles": "if",
+        "espanol": "si",
+        "ejemplo": "This is an example sentence with if."
+    },
+    {
+        "ingles": "image",
+        "espanol": "imagen",
+        "ejemplo": "This is an example sentence with image."
+    },
+    {
+        "ingles": "imagine",
+        "espanol": "imagina",
+        "ejemplo": "This is an example sentence with imagine."
+    },
+    {
+        "ingles": "immediately",
+        "espanol": "inmediatamente",
+        "ejemplo": "This is an example sentence with immediately."
+    },
+    {
+        "ingles": "important",
+        "espanol": "importante",
+        "ejemplo": "This is an example sentence with important."
+    },
+    {
+        "ingles": "improve",
+        "espanol": "mejorar",
+        "ejemplo": "This is an example sentence with improve."
+    },
+    {
+        "ingles": "in",
+        "espanol": "en",
+        "ejemplo": "This is an example sentence with in."
+    },
+    {
+        "ingles": "include",
+        "espanol": "incluir",
+        "ejemplo": "This is an example sentence with include."
+    },
+    {
+        "ingles": "income",
+        "espanol": "ingresos",
+        "ejemplo": "This is an example sentence with income."
+    },
+    {
+        "ingles": "increase",
+        "espanol": "incrementar",
+        "ejemplo": "This is an example sentence with increase."
+    },
+    {
+        "ingles": "indeed",
+        "espanol": "en efecto",
+        "ejemplo": "This is an example sentence with indeed."
+    },
+    {
+        "ingles": "indicate",
+        "espanol": "indicar",
+        "ejemplo": "This is an example sentence with indicate."
+    },
+    {
+        "ingles": "individual",
+        "espanol": "individual",
+        "ejemplo": "This is an example sentence with individual."
+    },
+    {
+        "ingles": "industry",
+        "espanol": "industria",
+        "ejemplo": "This is an example sentence with industry."
+    },
+    {
+        "ingles": "influence",
+        "espanol": "influencia",
+        "ejemplo": "This is an example sentence with influence."
+    },
+    {
+        "ingles": "information",
+        "espanol": "información",
+        "ejemplo": "This is an example sentence with information."
+    },
+    {
+        "ingles": "inside",
+        "espanol": "dentro",
+        "ejemplo": "This is an example sentence with inside."
+    },
+    {
+        "ingles": "instance",
+        "espanol": "ejemplo",
+        "ejemplo": "This is an example sentence with instance."
+    },
+    {
+        "ingles": "instead",
+        "espanol": "en lugar",
+        "ejemplo": "This is an example sentence with instead."
+    },
+    {
+        "ingles": "interest",
+        "espanol": "interesar",
+        "ejemplo": "This is an example sentence with interest."
+    },
+    {
+        "ingles": "international",
+        "espanol": "internacional",
+        "ejemplo": "This is an example sentence with international."
+    },
+    {
+        "ingles": "interview",
+        "espanol": "entrevista",
+        "ejemplo": "This is an example sentence with interview."
+    },
+    {
+        "ingles": "into",
+        "espanol": "dentro",
+        "ejemplo": "This is an example sentence with into."
+    },
+    {
+        "ingles": "introduce",
+        "espanol": "introducir",
+        "ejemplo": "This is an example sentence with introduce."
+    },
+    {
+        "ingles": "investment",
+        "espanol": "inversión",
+        "ejemplo": "This is an example sentence with investment."
+    },
+    {
+        "ingles": "involve",
+        "espanol": "implicar",
+        "ejemplo": "This is an example sentence with involve."
+    },
+    {
+        "ingles": "issue",
+        "espanol": "problema",
+        "ejemplo": "This is an example sentence with issue."
+    },
+    {
+        "ingles": "it",
+        "espanol": "eso",
+        "ejemplo": "This is an example sentence with it."
+    },
+    {
+        "ingles": "item",
+        "espanol": "artículo",
+        "ejemplo": "This is an example sentence with item."
+    },
+    {
+        "ingles": "itself",
+        "espanol": "sí mismo",
+        "ejemplo": "This is an example sentence with itself."
+    },
+    {
+        "ingles": "job",
+        "espanol": "trabajo",
+        "ejemplo": "This is an example sentence with job."
+    },
+    {
+        "ingles": "join",
+        "espanol": "unirse",
+        "ejemplo": "This is an example sentence with join."
+    },
+    {
+        "ingles": "judge",
+        "espanol": "juez",
+        "ejemplo": "This is an example sentence with judge."
+    },
+    {
+        "ingles": "just",
+        "espanol": "sólo",
+        "ejemplo": "This is an example sentence with just."
+    },
+    {
+        "ingles": "keep",
+        "espanol": "mantener",
+        "ejemplo": "This is an example sentence with keep."
+    },
+    {
+        "ingles": "key",
+        "espanol": "llave",
+        "ejemplo": "This is an example sentence with key."
+    },
+    {
+        "ingles": "kid",
+        "espanol": "niño",
+        "ejemplo": "This is an example sentence with kid."
+    },
+    {
+        "ingles": "kill",
+        "espanol": "matar",
+        "ejemplo": "This is an example sentence with kill."
+    },
+    {
+        "ingles": "kind",
+        "espanol": "tipo",
+        "ejemplo": "This is an example sentence with kind."
+    },
+    {
+        "ingles": "know",
+        "espanol": "saber",
+        "ejemplo": "This is an example sentence with know."
+    },
+    {
+        "ingles": "knowledge",
+        "espanol": "conocimiento",
+        "ejemplo": "This is an example sentence with knowledge."
+    },
+    {
+        "ingles": "lack",
+        "espanol": "ausencia",
+        "ejemplo": "This is an example sentence with lack."
+    },
+    {
+        "ingles": "land",
+        "espanol": "tierra",
+        "ejemplo": "This is an example sentence with land."
+    },
+    {
+        "ingles": "language",
+        "espanol": "idioma",
+        "ejemplo": "This is an example sentence with language."
+    },
+    {
+        "ingles": "large",
+        "espanol": "grande",
+        "ejemplo": "This is an example sentence with large."
+    },
+    {
+        "ingles": "last",
+        "espanol": "último",
+        "ejemplo": "This is an example sentence with last."
+    },
+    {
+        "ingles": "late",
+        "espanol": "tarde",
+        "ejemplo": "This is an example sentence with late."
+    },
+    {
+        "ingles": "laugh",
+        "espanol": "risa",
+        "ejemplo": "This is an example sentence with laugh."
+    },
+    {
+        "ingles": "law",
+        "espanol": "ley",
+        "ejemplo": "This is an example sentence with law."
+    },
+    {
+        "ingles": "lead",
+        "espanol": "dirigir",
+        "ejemplo": "This is an example sentence with lead."
+    },
+    {
+        "ingles": "leader",
+        "espanol": "líder",
+        "ejemplo": "This is an example sentence with leader."
+    },
+    {
+        "ingles": "learn",
+        "espanol": "aprender",
+        "ejemplo": "This is an example sentence with learn."
+    },
+    {
+        "ingles": "least",
+        "espanol": "menos",
+        "ejemplo": "This is an example sentence with least."
+    },
+    {
+        "ingles": "leave",
+        "espanol": "salir",
+        "ejemplo": "This is an example sentence with leave."
+    },
+    {
+        "ingles": "legal",
+        "espanol": "legal",
+        "ejemplo": "This is an example sentence with legal."
+    },
+    {
+        "ingles": "less",
+        "espanol": "menos",
+        "ejemplo": "This is an example sentence with less."
+    },
+    {
+        "ingles": "let",
+        "espanol": "dejar",
+        "ejemplo": "This is an example sentence with let."
+    },
+    {
+        "ingles": "letter",
+        "espanol": "carta",
+        "ejemplo": "This is an example sentence with letter."
+    },
+    {
+        "ingles": "level",
+        "espanol": "nivel",
+        "ejemplo": "This is an example sentence with level."
+    },
+    {
+        "ingles": "lie",
+        "espanol": "mentira",
+        "ejemplo": "This is an example sentence with lie."
+    },
+    {
+        "ingles": "life",
+        "espanol": "vida",
+        "ejemplo": "This is an example sentence with life."
+    },
+    {
+        "ingles": "light",
+        "espanol": "ligero",
+        "ejemplo": "This is an example sentence with light."
+    },
+    {
+        "ingles": "like",
+        "espanol": "me gusta",
+        "ejemplo": "This is an example sentence with like."
+    },
+    {
+        "ingles": "likely",
+        "espanol": "probable",
+        "ejemplo": "This is an example sentence with likely."
+    },
+    {
+        "ingles": "limit",
+        "espanol": "límite",
+        "ejemplo": "This is an example sentence with limit."
+    },
+    {
+        "ingles": "line",
+        "espanol": "línea",
+        "ejemplo": "This is an example sentence with line."
+    },
+    {
+        "ingles": "link",
+        "espanol": "enlazar",
+        "ejemplo": "This is an example sentence with link."
+    },
+    {
+        "ingles": "list",
+        "espanol": "lista",
+        "ejemplo": "This is an example sentence with list."
+    },
+    {
+        "ingles": "listen",
+        "espanol": "escucha",
+        "ejemplo": "This is an example sentence with listen."
+    },
+    {
+        "ingles": "little",
+        "espanol": "pequeño",
+        "ejemplo": "This is an example sentence with little."
+    },
+    {
+        "ingles": "live",
+        "espanol": "vivir",
+        "ejemplo": "This is an example sentence with live."
+    },
+    {
+        "ingles": "local",
+        "espanol": "local",
+        "ejemplo": "This is an example sentence with local."
+    },
+    {
+        "ingles": "long",
+        "espanol": "largo",
+        "ejemplo": "This is an example sentence with long."
+    },
+    {
+        "ingles": "look",
+        "espanol": "mira",
+        "ejemplo": "This is an example sentence with look."
+    },
+    {
+        "ingles": "lose",
+        "espanol": "perder",
+        "ejemplo": "This is an example sentence with lose."
+    },
+    {
+        "ingles": "loss",
+        "espanol": "pérdida",
+        "ejemplo": "This is an example sentence with loss."
+    },
+    {
+        "ingles": "lot",
+        "espanol": "mucho",
+        "ejemplo": "This is an example sentence with lot."
+    },
+    {
+        "ingles": "love",
+        "espanol": "amor",
+        "ejemplo": "This is an example sentence with love."
+    },
+    {
+        "ingles": "low",
+        "espanol": "bajo",
+        "ejemplo": "This is an example sentence with low."
+    },
+    {
+        "ingles": "machine",
+        "espanol": "máquina",
+        "ejemplo": "This is an example sentence with machine."
+    },
+    {
+        "ingles": "magazine",
+        "espanol": "revista",
+        "ejemplo": "This is an example sentence with magazine."
+    },
+    {
+        "ingles": "main",
+        "espanol": "principal",
+        "ejemplo": "This is an example sentence with main."
+    },
+    {
+        "ingles": "maintain",
+        "espanol": "mantener",
+        "ejemplo": "This is an example sentence with maintain."
+    },
+    {
+        "ingles": "major",
+        "espanol": "mayor",
+        "ejemplo": "This is an example sentence with major."
+    },
+    {
+        "ingles": "make",
+        "espanol": "hacer",
+        "ejemplo": "This is an example sentence with make."
+    },
+    {
+        "ingles": "male",
+        "espanol": "masculino",
+        "ejemplo": "This is an example sentence with male."
+    },
+    {
+        "ingles": "man",
+        "espanol": "hombre",
+        "ejemplo": "This is an example sentence with man."
+    },
+    {
+        "ingles": "manage",
+        "espanol": "gestionar",
+        "ejemplo": "This is an example sentence with manage."
+    },
+    {
+        "ingles": "management",
+        "espanol": "administración",
+        "ejemplo": "This is an example sentence with management."
+    },
+    {
+        "ingles": "manager",
+        "espanol": "gerente",
+        "ejemplo": "This is an example sentence with manager."
+    },
+    {
+        "ingles": "many",
+        "espanol": "muchos",
+        "ejemplo": "This is an example sentence with many."
+    },
+    {
+        "ingles": "mark",
+        "espanol": "marca",
+        "ejemplo": "This is an example sentence with mark."
+    },
+    {
+        "ingles": "market",
+        "espanol": "mercado",
+        "ejemplo": "This is an example sentence with market."
+    },
+    {
+        "ingles": "marry",
+        "espanol": "casar",
+        "ejemplo": "This is an example sentence with marry."
+    },
+    {
+        "ingles": "match",
+        "espanol": "partido",
+        "ejemplo": "This is an example sentence with match."
+    },
+    {
+        "ingles": "material",
+        "espanol": "material",
+        "ejemplo": "This is an example sentence with material."
+    },
+    {
+        "ingles": "matter",
+        "espanol": "importar",
+        "ejemplo": "This is an example sentence with matter."
+    },
+    {
+        "ingles": "may",
+        "espanol": "mayo",
+        "ejemplo": "This is an example sentence with may."
+    },
+    {
+        "ingles": "maybe",
+        "espanol": "tal vez",
+        "ejemplo": "This is an example sentence with maybe."
+    },
+    {
+        "ingles": "mean",
+        "espanol": "media",
+        "ejemplo": "This is an example sentence with mean."
+    },
+    {
+        "ingles": "measure",
+        "espanol": "medida",
+        "ejemplo": "This is an example sentence with measure."
+    },
+    {
+        "ingles": "medium",
+        "espanol": "medio",
+        "ejemplo": "This is an example sentence with medium."
+    },
+    {
+        "ingles": "meet",
+        "espanol": "reunirse",
+        "ejemplo": "This is an example sentence with meet."
+    },
+    {
+        "ingles": "member",
+        "espanol": "miembro",
+        "ejemplo": "This is an example sentence with member."
+    },
+    {
+        "ingles": "memory",
+        "espanol": "memoria",
+        "ejemplo": "This is an example sentence with memory."
+    },
+    {
+        "ingles": "mention",
+        "espanol": "mencionar",
+        "ejemplo": "This is an example sentence with mention."
+    },
+    {
+        "ingles": "message",
+        "espanol": "mensaje",
+        "ejemplo": "This is an example sentence with message."
+    },
+    {
+        "ingles": "method",
+        "espanol": "método",
+        "ejemplo": "This is an example sentence with method."
+    },
+    {
+        "ingles": "middle",
+        "espanol": "medio",
+        "ejemplo": "This is an example sentence with middle."
+    },
+    {
+        "ingles": "might",
+        "espanol": "podría",
+        "ejemplo": "This is an example sentence with might."
+    },
+    {
+        "ingles": "mile",
+        "espanol": "milla",
+        "ejemplo": "This is an example sentence with mile."
+    },
+    {
+        "ingles": "military",
+        "espanol": "militar",
+        "ejemplo": "This is an example sentence with military."
+    },
+    {
+        "ingles": "mind",
+        "espanol": "mente",
+        "ejemplo": "This is an example sentence with mind."
+    },
+    {
+        "ingles": "mine",
+        "espanol": "mía",
+        "ejemplo": "This is an example sentence with mine."
+    },
+    {
+        "ingles": "minute",
+        "espanol": "minuto",
+        "ejemplo": "This is an example sentence with minute."
+    },
+    {
+        "ingles": "miss",
+        "espanol": "perder",
+        "ejemplo": "This is an example sentence with miss."
+    },
+    {
+        "ingles": "model",
+        "espanol": "modelo",
+        "ejemplo": "This is an example sentence with model."
+    },
+    {
+        "ingles": "modern",
+        "espanol": "moderno",
+        "ejemplo": "This is an example sentence with modern."
+    },
+    {
+        "ingles": "moment",
+        "espanol": "momento",
+        "ejemplo": "This is an example sentence with moment."
+    },
+    {
+        "ingles": "money",
+        "espanol": "dinero",
+        "ejemplo": "This is an example sentence with money."
+    },
+    {
+        "ingles": "month",
+        "espanol": "mes",
+        "ejemplo": "This is an example sentence with month."
+    },
+    {
+        "ingles": "more",
+        "espanol": "más",
+        "ejemplo": "This is an example sentence with more."
+    },
+    {
+        "ingles": "morning",
+        "espanol": "mañana",
+        "ejemplo": "This is an example sentence with morning."
+    },
+    {
+        "ingles": "most",
+        "espanol": "más",
+        "ejemplo": "This is an example sentence with most."
+    },
+    {
+        "ingles": "mother",
+        "espanol": "madre",
+        "ejemplo": "This is an example sentence with mother."
+    },
+    {
+        "ingles": "move",
+        "espanol": "movimiento",
+        "ejemplo": "This is an example sentence with move."
+    },
+    {
+        "ingles": "movement",
+        "espanol": "movimiento",
+        "ejemplo": "This is an example sentence with movement."
+    },
+    {
+        "ingles": "movie",
+        "espanol": "película",
+        "ejemplo": "This is an example sentence with movie."
+    },
+    {
+        "ingles": "much",
+        "espanol": "mucho",
+        "ejemplo": "This is an example sentence with much."
+    },
+    {
+        "ingles": "music",
+        "espanol": "música",
+        "ejemplo": "This is an example sentence with music."
+    },
+    {
+        "ingles": "must",
+        "espanol": "debe",
+        "ejemplo": "This is an example sentence with must."
+    },
+    {
+        "ingles": "myself",
+        "espanol": "mí mismo",
+        "ejemplo": "This is an example sentence with myself."
+    },
+    {
+        "ingles": "name",
+        "espanol": "nombre",
+        "ejemplo": "This is an example sentence with name."
+    },
+    {
+        "ingles": "nation",
+        "espanol": "nación",
+        "ejemplo": "This is an example sentence with nation."
+    },
+    {
+        "ingles": "national",
+        "espanol": "nacional",
+        "ejemplo": "This is an example sentence with national."
+    },
+    {
+        "ingles": "natural",
+        "espanol": "natural",
+        "ejemplo": "This is an example sentence with natural."
+    },
+    {
+        "ingles": "nature",
+        "espanol": "naturaleza",
+        "ejemplo": "This is an example sentence with nature."
+    },
+    {
+        "ingles": "near",
+        "espanol": "cerca",
+        "ejemplo": "This is an example sentence with near."
+    },
+    {
+        "ingles": "nearly",
+        "espanol": "casi",
+        "ejemplo": "This is an example sentence with nearly."
+    },
+    {
+        "ingles": "necessary",
+        "espanol": "necesario",
+        "ejemplo": "This is an example sentence with necessary."
+    },
+    {
+        "ingles": "need",
+        "espanol": "necesitar",
+        "ejemplo": "This is an example sentence with need."
+    },
+    {
+        "ingles": "network",
+        "espanol": "red",
+        "ejemplo": "This is an example sentence with network."
+    },
+    {
+        "ingles": "never",
+        "espanol": "nunca",
+        "ejemplo": "This is an example sentence with never."
+    },
+    {
+        "ingles": "new",
+        "espanol": "nuevo",
+        "ejemplo": "This is an example sentence with new."
+    },
+    {
+        "ingles": "news",
+        "espanol": "noticias",
+        "ejemplo": "This is an example sentence with news."
+    },
+    {
+        "ingles": "newspaper",
+        "espanol": "periódico",
+        "ejemplo": "This is an example sentence with newspaper."
+    },
+    {
+        "ingles": "next",
+        "espanol": "siguiente",
+        "ejemplo": "This is an example sentence with next."
+    },
+    {
+        "ingles": "nice",
+        "espanol": "agradable",
+        "ejemplo": "This is an example sentence with nice."
+    },
+    {
+        "ingles": "night",
+        "espanol": "noche",
+        "ejemplo": "This is an example sentence with night."
+    },
+    {
+        "ingles": "no",
+        "espanol": "no",
+        "ejemplo": "This is an example sentence with no."
+    },
+    {
+        "ingles": "nor",
+        "espanol": "ni",
+        "ejemplo": "This is an example sentence with nor."
+    },
+    {
+        "ingles": "normal",
+        "espanol": "normal",
+        "ejemplo": "This is an example sentence with normal."
+    },
+    {
+        "ingles": "not",
+        "espanol": "no",
+        "ejemplo": "This is an example sentence with not."
+    },
+    {
+        "ingles": "note",
+        "espanol": "nota",
+        "ejemplo": "This is an example sentence with note."
+    },
+    {
+        "ingles": "nothing",
+        "espanol": "nada",
+        "ejemplo": "This is an example sentence with nothing."
+    },
+    {
+        "ingles": "notice",
+        "espanol": "darse cuenta",
+        "ejemplo": "This is an example sentence with notice."
+    },
+    {
+        "ingles": "now",
+        "espanol": "ahora",
+        "ejemplo": "This is an example sentence with now."
+    },
+    {
+        "ingles": "number",
+        "espanol": "número",
+        "ejemplo": "This is an example sentence with number."
+    },
+    {
+        "ingles": "object",
+        "espanol": "objeto",
+        "ejemplo": "This is an example sentence with object."
+    },
+    {
+        "ingles": "obviously",
+        "espanol": "obviamente",
+        "ejemplo": "This is an example sentence with obviously."
+    },
+    {
+        "ingles": "occur",
+        "espanol": "ocurrir",
+        "ejemplo": "This is an example sentence with occur."
+    },
+    {
+        "ingles": "of",
+        "espanol": "de",
+        "ejemplo": "This is an example sentence with of."
+    },
+    {
+        "ingles": "off",
+        "espanol": "apagado",
+        "ejemplo": "This is an example sentence with off."
+    },
+    {
+        "ingles": "offer",
+        "espanol": "oferta",
+        "ejemplo": "This is an example sentence with offer."
+    },
+    {
+        "ingles": "office",
+        "espanol": "oficina",
+        "ejemplo": "This is an example sentence with office."
+    },
+    {
+        "ingles": "officer",
+        "espanol": "oficial",
+        "ejemplo": "This is an example sentence with officer."
+    },
+    {
+        "ingles": "official",
+        "espanol": "oficial",
+        "ejemplo": "This is an example sentence with official."
+    },
+    {
+        "ingles": "often",
+        "espanol": "a menudo",
+        "ejemplo": "This is an example sentence with often."
+    },
+    {
+        "ingles": "oil",
+        "espanol": "petróleo",
+        "ejemplo": "This is an example sentence with oil."
+    },
+    {
+        "ingles": "okay",
+        "espanol": "bueno",
+        "ejemplo": "This is an example sentence with okay."
+    },
+    {
+        "ingles": "old",
+        "espanol": "antiguo",
+        "ejemplo": "This is an example sentence with old."
+    },
+    {
+        "ingles": "on",
+        "espanol": "en",
+        "ejemplo": "This is an example sentence with on."
+    },
+    {
+        "ingles": "once",
+        "espanol": "una vez",
+        "ejemplo": "This is an example sentence with once."
+    },
+    {
+        "ingles": "one",
+        "espanol": "uno",
+        "ejemplo": "This is an example sentence with one."
+    },
+    {
+        "ingles": "only",
+        "espanol": "solamente",
+        "ejemplo": "This is an example sentence with only."
+    },
+    {
+        "ingles": "open",
+        "espanol": "abierto",
+        "ejemplo": "This is an example sentence with open."
+    },
+    {
+        "ingles": "operate",
+        "espanol": "funcionar",
+        "ejemplo": "This is an example sentence with operate."
+    },
+    {
+        "ingles": "operation",
+        "espanol": "operación",
+        "ejemplo": "This is an example sentence with operation."
+    },
+    {
+        "ingles": "opinion",
+        "espanol": "opinión",
+        "ejemplo": "This is an example sentence with opinion."
+    },
+    {
+        "ingles": "opportunity",
+        "espanol": "oportunidad",
+        "ejemplo": "This is an example sentence with opportunity."
+    },
+    {
+        "ingles": "option",
+        "espanol": "opción",
+        "ejemplo": "This is an example sentence with option."
+    },
+    {
+        "ingles": "or",
+        "espanol": "o",
+        "ejemplo": "This is an example sentence with or."
+    },
+    {
+        "ingles": "order",
+        "espanol": "orden",
+        "ejemplo": "This is an example sentence with order."
+    },
+    {
+        "ingles": "organization",
+        "espanol": "organización",
+        "ejemplo": "This is an example sentence with organization."
+    },
+    {
+        "ingles": "organize",
+        "espanol": "organizar",
+        "ejemplo": "This is an example sentence with organize."
+    },
+    {
+        "ingles": "original",
+        "espanol": "original",
+        "ejemplo": "This is an example sentence with original."
+    },
+    {
+        "ingles": "other",
+        "espanol": "otro",
+        "ejemplo": "This is an example sentence with other."
+    },
+    {
+        "ingles": "out",
+        "espanol": "afuera",
+        "ejemplo": "This is an example sentence with out."
+    },
+    {
+        "ingles": "outside",
+        "espanol": "exterio",
+        "ejemplo": "This is an example sentence with outside."
+    },
+    {
+        "ingles": "over",
+        "espanol": "terminado",
+        "ejemplo": "This is an example sentence with over."
+    },
+    {
+        "ingles": "own",
+        "espanol": "propio",
+        "ejemplo": "This is an example sentence with own."
+    },
+    {
+        "ingles": "page",
+        "espanol": "página",
+        "ejemplo": "This is an example sentence with page."
+    },
+    {
+        "ingles": "paint",
+        "espanol": "pintar",
+        "ejemplo": "This is an example sentence with paint."
+    },
+    {
+        "ingles": "paper",
+        "espanol": "papel",
+        "ejemplo": "This is an example sentence with paper."
+    },
+    {
+        "ingles": "parent",
+        "espanol": "padre",
+        "ejemplo": "This is an example sentence with parent."
+    },
+    {
+        "ingles": "park",
+        "espanol": "parque",
+        "ejemplo": "This is an example sentence with park."
+    },
+    {
+        "ingles": "part",
+        "espanol": "parte",
+        "ejemplo": "This is an example sentence with part."
+    },
+    {
+        "ingles": "particular",
+        "espanol": "especial",
+        "ejemplo": "This is an example sentence with particular."
+    },
+    {
+        "ingles": "particularly",
+        "espanol": "particularmente",
+        "ejemplo": "This is an example sentence with particularly."
+    },
+    {
+        "ingles": "party",
+        "espanol": "partido",
+        "ejemplo": "This is an example sentence with party."
+    },
+    {
+        "ingles": "pass",
+        "espanol": "pasar",
+        "ejemplo": "This is an example sentence with pass."
+    },
+    {
+        "ingles": "past",
+        "espanol": "pasado",
+        "ejemplo": "This is an example sentence with past."
+    },
+    {
+        "ingles": "patient",
+        "espanol": "paciente",
+        "ejemplo": "This is an example sentence with patient."
+    },
+    {
+        "ingles": "pattern",
+        "espanol": "modelo",
+        "ejemplo": "This is an example sentence with pattern."
+    },
+    {
+        "ingles": "pause",
+        "espanol": "pausa",
+        "ejemplo": "This is an example sentence with pause."
+    },
+    {
+        "ingles": "pay",
+        "espanol": "paga",
+        "ejemplo": "This is an example sentence with pay."
+    },
+    {
+        "ingles": "people",
+        "espanol": "gente",
+        "ejemplo": "This is an example sentence with people."
+    },
+    {
+        "ingles": "per",
+        "espanol": "por",
+        "ejemplo": "This is an example sentence with per."
+    },
+    {
+        "ingles": "percent",
+        "espanol": "por ciento",
+        "ejemplo": "This is an example sentence with percent."
+    },
+    {
+        "ingles": "perform",
+        "espanol": "realizar",
+        "ejemplo": "This is an example sentence with perform."
+    },
+    {
+        "ingles": "performance",
+        "espanol": "actuación",
+        "ejemplo": "This is an example sentence with performance."
+    },
+    {
+        "ingles": "perhaps",
+        "espanol": "quizás",
+        "ejemplo": "This is an example sentence with perhaps."
+    },
+    {
+        "ingles": "period",
+        "espanol": "período",
+        "ejemplo": "This is an example sentence with period."
+    },
+    {
+        "ingles": "person",
+        "espanol": "persona",
+        "ejemplo": "This is an example sentence with person."
+    },
+    {
+        "ingles": "personal",
+        "espanol": "personal",
+        "ejemplo": "This is an example sentence with personal."
+    },
+    {
+        "ingles": "phone",
+        "espanol": "teléfono",
+        "ejemplo": "This is an example sentence with phone."
+    },
+    {
+        "ingles": "pick",
+        "espanol": "recoger",
+        "ejemplo": "This is an example sentence with pick."
+    },
+    {
+        "ingles": "picture",
+        "espanol": "imagen",
+        "ejemplo": "This is an example sentence with picture."
+    },
+    {
+        "ingles": "piece",
+        "espanol": "trozo",
+        "ejemplo": "This is an example sentence with piece."
+    },
+    {
+        "ingles": "place",
+        "espanol": "lugar",
+        "ejemplo": "This is an example sentence with place."
+    },
+    {
+        "ingles": "plan",
+        "espanol": "plan",
+        "ejemplo": "This is an example sentence with plan."
+    },
+    {
+        "ingles": "plant",
+        "espanol": "planta",
+        "ejemplo": "This is an example sentence with plant."
+    },
+    {
+        "ingles": "play",
+        "espanol": "jugar",
+        "ejemplo": "This is an example sentence with play."
+    },
+    {
+        "ingles": "player",
+        "espanol": "jugador",
+        "ejemplo": "This is an example sentence with player."
+    },
+    {
+        "ingles": "please",
+        "espanol": "por favor",
+        "ejemplo": "This is an example sentence with please."
+    },
+    {
+        "ingles": "point",
+        "espanol": "punto",
+        "ejemplo": "This is an example sentence with point."
+    },
+    {
+        "ingles": "police",
+        "espanol": "policía",
+        "ejemplo": "This is an example sentence with police."
+    },
+    {
+        "ingles": "policy",
+        "espanol": "política",
+        "ejemplo": "This is an example sentence with policy."
+    },
+    {
+        "ingles": "political",
+        "espanol": "político",
+        "ejemplo": "This is an example sentence with political."
+    },
+    {
+        "ingles": "poor",
+        "espanol": "pobre",
+        "ejemplo": "This is an example sentence with poor."
+    },
+    {
+        "ingles": "popular",
+        "espanol": "popular",
+        "ejemplo": "This is an example sentence with popular."
+    },
+    {
+        "ingles": "population",
+        "espanol": "población",
+        "ejemplo": "This is an example sentence with population."
+    },
+    {
+        "ingles": "position",
+        "espanol": "posición",
+        "ejemplo": "This is an example sentence with position."
+    },
+    {
+        "ingles": "positive",
+        "espanol": "positivo",
+        "ejemplo": "This is an example sentence with positive."
+    },
+    {
+        "ingles": "possibility",
+        "espanol": "posibilidad",
+        "ejemplo": "This is an example sentence with possibility."
+    },
+    {
+        "ingles": "possible",
+        "espanol": "posible",
+        "ejemplo": "This is an example sentence with possible."
+    },
+    {
+        "ingles": "post",
+        "espanol": "enviar",
+        "ejemplo": "This is an example sentence with post."
+    },
+    {
+        "ingles": "potential",
+        "espanol": "potencial",
+        "ejemplo": "This is an example sentence with potential."
+    },
+    {
+        "ingles": "pound",
+        "espanol": "libra",
+        "ejemplo": "This is an example sentence with pound."
+    },
+    {
+        "ingles": "power",
+        "espanol": "poder",
+        "ejemplo": "This is an example sentence with power."
+    },
+    {
+        "ingles": "practice",
+        "espanol": "práctica",
+        "ejemplo": "This is an example sentence with practice."
+    },
+    {
+        "ingles": "prefer",
+        "espanol": "preferir",
+        "ejemplo": "This is an example sentence with prefer."
+    },
+    {
+        "ingles": "prepare",
+        "espanol": "preparar",
+        "ejemplo": "This is an example sentence with prepare."
+    },
+    {
+        "ingles": "present",
+        "espanol": "presente",
+        "ejemplo": "This is an example sentence with present."
+    },
+    {
+        "ingles": "president",
+        "espanol": "presidente",
+        "ejemplo": "This is an example sentence with president."
+    },
+    {
+        "ingles": "press",
+        "espanol": "prensa",
+        "ejemplo": "This is an example sentence with press."
+    },
+    {
+        "ingles": "pressure",
+        "espanol": "presión",
+        "ejemplo": "This is an example sentence with pressure."
+    },
+    {
+        "ingles": "pretty",
+        "espanol": "bonita",
+        "ejemplo": "This is an example sentence with pretty."
+    },
+    {
+        "ingles": "previous",
+        "espanol": "anterior",
+        "ejemplo": "This is an example sentence with previous."
+    },
+    {
+        "ingles": "price",
+        "espanol": "precio",
+        "ejemplo": "This is an example sentence with price."
+    },
+    {
+        "ingles": "private",
+        "espanol": "privado",
+        "ejemplo": "This is an example sentence with private."
+    },
+    {
+        "ingles": "probably",
+        "espanol": "probablemente",
+        "ejemplo": "This is an example sentence with probably."
+    },
+    {
+        "ingles": "problem",
+        "espanol": "problema",
+        "ejemplo": "This is an example sentence with problem."
+    },
+    {
+        "ingles": "process",
+        "espanol": "proceso",
+        "ejemplo": "This is an example sentence with process."
+    },
+    {
+        "ingles": "produce",
+        "espanol": "Produce",
+        "ejemplo": "This is an example sentence with produce."
+    },
+    {
+        "ingles": "product",
+        "espanol": "producto",
+        "ejemplo": "This is an example sentence with product."
+    },
+    {
+        "ingles": "production",
+        "espanol": "producción",
+        "ejemplo": "This is an example sentence with production."
+    },
+    {
+        "ingles": "professional",
+        "espanol": "profesional",
+        "ejemplo": "This is an example sentence with professional."
+    },
+    {
+        "ingles": "profit",
+        "espanol": "lucro",
+        "ejemplo": "This is an example sentence with profit."
+    },
+    {
+        "ingles": "program",
+        "espanol": "programa",
+        "ejemplo": "This is an example sentence with program."
+    },
+    {
+        "ingles": "project",
+        "espanol": "proyecto",
+        "ejemplo": "This is an example sentence with project."
+    },
+    {
+        "ingles": "promise",
+        "espanol": "promesa",
+        "ejemplo": "This is an example sentence with promise."
+    },
+    {
+        "ingles": "property",
+        "espanol": "propiedad",
+        "ejemplo": "This is an example sentence with property."
+    },
+    {
+        "ingles": "proposal",
+        "espanol": "propuesta",
+        "ejemplo": "This is an example sentence with proposal."
+    },
+    {
+        "ingles": "propose",
+        "espanol": "proponer",
+        "ejemplo": "This is an example sentence with propose."
+    },
+    {
+        "ingles": "protect",
+        "espanol": "proteger",
+        "ejemplo": "This is an example sentence with protect."
+    },
+    {
+        "ingles": "prove",
+        "espanol": "probar",
+        "ejemplo": "This is an example sentence with prove."
+    },
+    {
+        "ingles": "provide",
+        "espanol": "proporcionar",
+        "ejemplo": "This is an example sentence with provide."
+    },
+    {
+        "ingles": "public",
+        "espanol": "público",
+        "ejemplo": "This is an example sentence with public."
+    },
+    {
+        "ingles": "pull",
+        "espanol": "halar",
+        "ejemplo": "This is an example sentence with pull."
+    },
+    {
+        "ingles": "purchase",
+        "espanol": "comprar",
+        "ejemplo": "This is an example sentence with purchase."
+    },
+    {
+        "ingles": "purpose",
+        "espanol": "propósito",
+        "ejemplo": "This is an example sentence with purpose."
+    },
+    {
+        "ingles": "push",
+        "espanol": "empujar",
+        "ejemplo": "This is an example sentence with push."
+    },
+    {
+        "ingles": "put",
+        "espanol": "poner",
+        "ejemplo": "This is an example sentence with put."
+    },
+    {
+        "ingles": "quality",
+        "espanol": "calidad",
+        "ejemplo": "This is an example sentence with quality."
+    },
+    {
+        "ingles": "quarter",
+        "espanol": "trimestre",
+        "ejemplo": "This is an example sentence with quarter."
+    },
+    {
+        "ingles": "question",
+        "espanol": "pregunta",
+        "ejemplo": "This is an example sentence with question."
+    },
+    {
+        "ingles": "quickly",
+        "espanol": "con rapidez",
+        "ejemplo": "This is an example sentence with quickly."
+    },
+    {
+        "ingles": "quite",
+        "espanol": "bastante",
+        "ejemplo": "This is an example sentence with quite."
+    },
+    {
+        "ingles": "race",
+        "espanol": "carrera",
+        "ejemplo": "This is an example sentence with race."
+    },
+    {
+        "ingles": "raise",
+        "espanol": "aumento",
+        "ejemplo": "This is an example sentence with raise."
+    },
+    {
+        "ingles": "range",
+        "espanol": "distancia",
+        "ejemplo": "This is an example sentence with range."
+    },
+    {
+        "ingles": "rate",
+        "espanol": "tarifa",
+        "ejemplo": "This is an example sentence with rate."
+    },
+    {
+        "ingles": "rather",
+        "espanol": "más bien",
+        "ejemplo": "This is an example sentence with rather."
+    },
+    {
+        "ingles": "reach",
+        "espanol": "alcanzar",
+        "ejemplo": "This is an example sentence with reach."
+    },
+    {
+        "ingles": "read",
+        "espanol": "leer",
+        "ejemplo": "This is an example sentence with read."
+    },
+    {
+        "ingles": "ready",
+        "espanol": "listo",
+        "ejemplo": "This is an example sentence with ready."
+    },
+    {
+        "ingles": "real",
+        "espanol": "real",
+        "ejemplo": "This is an example sentence with real."
+    },
+    {
+        "ingles": "realize",
+        "espanol": "darse cuenta de",
+        "ejemplo": "This is an example sentence with realize."
+    },
+    {
+        "ingles": "really",
+        "espanol": "De Verdad",
+        "ejemplo": "This is an example sentence with really."
+    },
+    {
+        "ingles": "reason",
+        "espanol": "razón",
+        "ejemplo": "This is an example sentence with reason."
+    },
+    {
+        "ingles": "receive",
+        "espanol": "recibir",
+        "ejemplo": "This is an example sentence with receive."
+    },
+    {
+        "ingles": "recent",
+        "espanol": "reciente",
+        "ejemplo": "This is an example sentence with recent."
+    },
+    {
+        "ingles": "recently",
+        "espanol": "recientemente",
+        "ejemplo": "This is an example sentence with recently."
+    },
+    {
+        "ingles": "recognize",
+        "espanol": "reconocer",
+        "ejemplo": "This is an example sentence with recognize."
+    },
+    {
+        "ingles": "record",
+        "espanol": "grabar",
+        "ejemplo": "This is an example sentence with record."
+    },
+    {
+        "ingles": "red",
+        "espanol": "rojo",
+        "ejemplo": "This is an example sentence with red."
+    },
+    {
+        "ingles": "reduce",
+        "espanol": "reducir",
+        "ejemplo": "This is an example sentence with reduce."
+    },
+    {
+        "ingles": "refer",
+        "espanol": "referir",
+        "ejemplo": "This is an example sentence with refer."
+    },
+    {
+        "ingles": "reference",
+        "espanol": "referencia",
+        "ejemplo": "This is an example sentence with reference."
+    },
+    {
+        "ingles": "reflect",
+        "espanol": "reflejar",
+        "ejemplo": "This is an example sentence with reflect."
+    },
+    {
+        "ingles": "regard",
+        "espanol": "considerar",
+        "ejemplo": "This is an example sentence with regard."
+    },
+    {
+        "ingles": "region",
+        "espanol": "región",
+        "ejemplo": "This is an example sentence with region."
+    },
+    {
+        "ingles": "relate",
+        "espanol": "relacionar",
+        "ejemplo": "This is an example sentence with relate."
+    },
+    {
+        "ingles": "relation",
+        "espanol": "relación",
+        "ejemplo": "This is an example sentence with relation."
+    },
+    {
+        "ingles": "relationship",
+        "espanol": "relación",
+        "ejemplo": "This is an example sentence with relationship."
+    },
+    {
+        "ingles": "release",
+        "espanol": "lanzamiento",
+        "ejemplo": "This is an example sentence with release."
+    },
+    {
+        "ingles": "remain",
+        "espanol": "permanecer",
+        "ejemplo": "This is an example sentence with remain."
+    },
+    {
+        "ingles": "remember",
+        "espanol": "recuerda",
+        "ejemplo": "This is an example sentence with remember."
+    },
+    {
+        "ingles": "replace",
+        "espanol": "Reemplazar",
+        "ejemplo": "This is an example sentence with replace."
+    },
+    {
+        "ingles": "report",
+        "espanol": "informe",
+        "ejemplo": "This is an example sentence with report."
+    },
+    {
+        "ingles": "represent",
+        "espanol": "representar",
+        "ejemplo": "This is an example sentence with represent."
+    },
+    {
+        "ingles": "require",
+        "espanol": "exigir",
+        "ejemplo": "This is an example sentence with require."
+    },
+    {
+        "ingles": "research",
+        "espanol": "investigación",
+        "ejemplo": "This is an example sentence with research."
+    },
+    {
+        "ingles": "resource",
+        "espanol": "recurso",
+        "ejemplo": "This is an example sentence with resource."
+    },
+    {
+        "ingles": "respect",
+        "espanol": "el respeto",
+        "ejemplo": "This is an example sentence with respect."
+    },
+    {
+        "ingles": "response",
+        "espanol": "respuesta",
+        "ejemplo": "This is an example sentence with response."
+    },
+    {
+        "ingles": "responsibility",
+        "espanol": "responsabilidad",
+        "ejemplo": "This is an example sentence with responsibility."
+    },
+    {
+        "ingles": "rest",
+        "espanol": "descanso",
+        "ejemplo": "This is an example sentence with rest."
+    },
+    {
+        "ingles": "restaurant",
+        "espanol": "restaurante",
+        "ejemplo": "This is an example sentence with restaurant."
+    },
+    {
+        "ingles": "result",
+        "espanol": "resultado",
+        "ejemplo": "This is an example sentence with result."
+    },
+    {
+        "ingles": "return",
+        "espanol": "regreso",
+        "ejemplo": "This is an example sentence with return."
+    },
+    {
+        "ingles": "review",
+        "espanol": "revisión",
+        "ejemplo": "This is an example sentence with review."
+    },
+    {
+        "ingles": "right",
+        "espanol": "Correcto",
+        "ejemplo": "This is an example sentence with right."
+    },
+    {
+        "ingles": "ring",
+        "espanol": "anillo",
+        "ejemplo": "This is an example sentence with ring."
+    },
+    {
+        "ingles": "rise",
+        "espanol": "subir",
+        "ejemplo": "This is an example sentence with rise."
+    },
+    {
+        "ingles": "risk",
+        "espanol": "riesgo",
+        "ejemplo": "This is an example sentence with risk."
+    },
+    {
+        "ingles": "road",
+        "espanol": "la carretera",
+        "ejemplo": "This is an example sentence with road."
+    },
+    {
+        "ingles": "rock",
+        "espanol": "rock",
+        "ejemplo": "This is an example sentence with rock."
+    },
+    {
+        "ingles": "role",
+        "espanol": "papel",
+        "ejemplo": "This is an example sentence with role."
+    },
+    {
+        "ingles": "room",
+        "espanol": "habitación",
+        "ejemplo": "This is an example sentence with room."
+    },
+    {
+        "ingles": "round",
+        "espanol": "redondo",
+        "ejemplo": "This is an example sentence with round."
+    },
+    {
+        "ingles": "rule",
+        "espanol": "regla",
+        "ejemplo": "This is an example sentence with rule."
+    },
+    {
+        "ingles": "run",
+        "espanol": "correr",
+        "ejemplo": "This is an example sentence with run."
+    },
+    {
+        "ingles": "sale",
+        "espanol": "venta",
+        "ejemplo": "This is an example sentence with sale."
+    },
+    {
+        "ingles": "same",
+        "espanol": "mismo",
+        "ejemplo": "This is an example sentence with same."
+    },
+    {
+        "ingles": "save",
+        "espanol": "salvar",
+        "ejemplo": "This is an example sentence with save."
+    },
+    {
+        "ingles": "say",
+        "espanol": "decir",
+        "ejemplo": "This is an example sentence with say."
+    },
+    {
+        "ingles": "school",
+        "espanol": "colegio",
+        "ejemplo": "This is an example sentence with school."
+    },
+    {
+        "ingles": "science",
+        "espanol": "ciencia",
+        "ejemplo": "This is an example sentence with science."
+    },
+    {
+        "ingles": "score",
+        "espanol": "Puntuación",
+        "ejemplo": "This is an example sentence with score."
+    },
+    {
+        "ingles": "screen",
+        "espanol": "pantalla",
+        "ejemplo": "This is an example sentence with screen."
+    },
+    {
+        "ingles": "sea",
+        "espanol": "mar",
+        "ejemplo": "This is an example sentence with sea."
+    },
+    {
+        "ingles": "search",
+        "espanol": "buscar",
+        "ejemplo": "This is an example sentence with search."
+    },
+    {
+        "ingles": "season",
+        "espanol": "temporada",
+        "ejemplo": "This is an example sentence with season."
+    },
+    {
+        "ingles": "seat",
+        "espanol": "asiento",
+        "ejemplo": "This is an example sentence with seat."
+    },
+    {
+        "ingles": "second",
+        "espanol": "segundo",
+        "ejemplo": "This is an example sentence with second."
+    },
+    {
+        "ingles": "section",
+        "espanol": "sección",
+        "ejemplo": "This is an example sentence with section."
+    },
+    {
+        "ingles": "security",
+        "espanol": "seguridad",
+        "ejemplo": "This is an example sentence with security."
+    },
+    {
+        "ingles": "see",
+        "espanol": "ver",
+        "ejemplo": "This is an example sentence with see."
+    },
+    {
+        "ingles": "seek",
+        "espanol": "buscar",
+        "ejemplo": "This is an example sentence with seek."
+    },
+    {
+        "ingles": "seem",
+        "espanol": "parecer",
+        "ejemplo": "This is an example sentence with seem."
+    },
+    {
+        "ingles": "sell",
+        "espanol": "vender",
+        "ejemplo": "This is an example sentence with sell."
+    },
+    {
+        "ingles": "send",
+        "espanol": "enviar",
+        "ejemplo": "This is an example sentence with send."
+    },
+    {
+        "ingles": "sense",
+        "espanol": "sentido",
+        "ejemplo": "This is an example sentence with sense."
+    },
+    {
+        "ingles": "separate",
+        "espanol": "separar",
+        "ejemplo": "This is an example sentence with separate."
+    },
+    {
+        "ingles": "series",
+        "espanol": "serie",
+        "ejemplo": "This is an example sentence with series."
+    },
+    {
+        "ingles": "serious",
+        "espanol": "grave",
+        "ejemplo": "This is an example sentence with serious."
+    },
+    {
+        "ingles": "serve",
+        "espanol": "servir",
+        "ejemplo": "This is an example sentence with serve."
+    },
+    {
+        "ingles": "service",
+        "espanol": "servicio",
+        "ejemplo": "This is an example sentence with service."
+    },
+    {
+        "ingles": "set",
+        "espanol": "conjunto",
+        "ejemplo": "This is an example sentence with set."
+    },
+    {
+        "ingles": "several",
+        "espanol": "varios",
+        "ejemplo": "This is an example sentence with several."
+    },
+    {
+        "ingles": "shall",
+        "espanol": "deberá",
+        "ejemplo": "This is an example sentence with shall."
+    },
+    {
+        "ingles": "shape",
+        "espanol": "forma",
+        "ejemplo": "This is an example sentence with shape."
+    },
+    {
+        "ingles": "share",
+        "espanol": "compartir",
+        "ejemplo": "This is an example sentence with share."
+    },
+    {
+        "ingles": "she",
+        "espanol": "ella",
+        "ejemplo": "This is an example sentence with she."
+    },
+    {
+        "ingles": "shop",
+        "espanol": "tienda",
+        "ejemplo": "This is an example sentence with shop."
+    },
+    {
+        "ingles": "short",
+        "espanol": "corto",
+        "ejemplo": "This is an example sentence with short."
+    },
+    {
+        "ingles": "should",
+        "espanol": "debería",
+        "ejemplo": "This is an example sentence with should."
+    },
+    {
+        "ingles": "show",
+        "espanol": "espectáculo",
+        "ejemplo": "This is an example sentence with show."
+    },
+    {
+        "ingles": "side",
+        "espanol": "lado",
+        "ejemplo": "This is an example sentence with side."
+    },
+    {
+        "ingles": "sign",
+        "espanol": "firmar",
+        "ejemplo": "This is an example sentence with sign."
+    },
+    {
+        "ingles": "significant",
+        "espanol": "significativo",
+        "ejemplo": "This is an example sentence with significant."
+    },
+    {
+        "ingles": "similar",
+        "espanol": "similar",
+        "ejemplo": "This is an example sentence with similar."
+    },
+    {
+        "ingles": "simple",
+        "espanol": "sencillo",
+        "ejemplo": "This is an example sentence with simple."
+    },
+    {
+        "ingles": "simply",
+        "espanol": "simplemente",
+        "ejemplo": "This is an example sentence with simply."
+    },
+    {
+        "ingles": "since",
+        "espanol": "ya que",
+        "ejemplo": "This is an example sentence with since."
+    },
+    {
+        "ingles": "sing",
+        "espanol": "canta",
+        "ejemplo": "This is an example sentence with sing."
+    },
+    {
+        "ingles": "single",
+        "espanol": "soltero",
+        "ejemplo": "This is an example sentence with single."
+    },
+    {
+        "ingles": "sister",
+        "espanol": "hermana",
+        "ejemplo": "This is an example sentence with sister."
+    },
+    {
+        "ingles": "sit",
+        "espanol": "sentar",
+        "ejemplo": "This is an example sentence with sit."
+    },
+    {
+        "ingles": "site",
+        "espanol": "sitio",
+        "ejemplo": "This is an example sentence with site."
+    },
+    {
+        "ingles": "situation",
+        "espanol": "situación",
+        "ejemplo": "This is an example sentence with situation."
+    },
+    {
+        "ingles": "size",
+        "espanol": "tamaño",
+        "ejemplo": "This is an example sentence with size."
+    },
+    {
+        "ingles": "skill",
+        "espanol": "habilidad",
+        "ejemplo": "This is an example sentence with skill."
+    },
+    {
+        "ingles": "sleep",
+        "espanol": "dormir",
+        "ejemplo": "This is an example sentence with sleep."
+    },
+    {
+        "ingles": "small",
+        "espanol": "pequeña",
+        "ejemplo": "This is an example sentence with small."
+    },
+    {
+        "ingles": "smile",
+        "espanol": "sonreír",
+        "ejemplo": "This is an example sentence with smile."
+    },
+    {
+        "ingles": "so",
+        "espanol": "entonces",
+        "ejemplo": "This is an example sentence with so."
+    },
+    {
+        "ingles": "social",
+        "espanol": "social",
+        "ejemplo": "This is an example sentence with social."
+    },
+    {
+        "ingles": "society",
+        "espanol": "sociedad",
+        "ejemplo": "This is an example sentence with society."
+    },
+    {
+        "ingles": "solution",
+        "espanol": "solución",
+        "ejemplo": "This is an example sentence with solution."
+    },
+    {
+        "ingles": "some",
+        "espanol": "algunos",
+        "ejemplo": "This is an example sentence with some."
+    },
+    {
+        "ingles": "somebody",
+        "espanol": "alguien",
+        "ejemplo": "This is an example sentence with somebody."
+    },
+    {
+        "ingles": "someone",
+        "espanol": "alguien",
+        "ejemplo": "This is an example sentence with someone."
+    },
+    {
+        "ingles": "something",
+        "espanol": "alguna cosa",
+        "ejemplo": "This is an example sentence with something."
+    },
+    {
+        "ingles": "sometimes",
+        "espanol": "algunas veces",
+        "ejemplo": "This is an example sentence with sometimes."
+    },
+    {
+        "ingles": "son",
+        "espanol": "hijo",
+        "ejemplo": "This is an example sentence with son."
+    },
+    {
+        "ingles": "song",
+        "espanol": "canción",
+        "ejemplo": "This is an example sentence with song."
+    },
+    {
+        "ingles": "soon",
+        "espanol": "pronto",
+        "ejemplo": "This is an example sentence with soon."
+    },
+    {
+        "ingles": "sorry",
+        "espanol": "lo siento",
+        "ejemplo": "This is an example sentence with sorry."
+    },
+    {
+        "ingles": "sort",
+        "espanol": "ordenar",
+        "ejemplo": "This is an example sentence with sort."
+    },
+    {
+        "ingles": "sound",
+        "espanol": "sonar",
+        "ejemplo": "This is an example sentence with sound."
+    },
+    {
+        "ingles": "source",
+        "espanol": "fuente",
+        "ejemplo": "This is an example sentence with source."
+    },
+    {
+        "ingles": "space",
+        "espanol": "espacio",
+        "ejemplo": "This is an example sentence with space."
+    },
+    {
+        "ingles": "speak",
+        "espanol": "hablar",
+        "ejemplo": "This is an example sentence with speak."
+    },
+    {
+        "ingles": "special",
+        "espanol": "especial",
+        "ejemplo": "This is an example sentence with special."
+    },
+    {
+        "ingles": "specific",
+        "espanol": "específico",
+        "ejemplo": "This is an example sentence with specific."
+    },
+    {
+        "ingles": "speech",
+        "espanol": "habla",
+        "ejemplo": "This is an example sentence with speech."
+    },
+    {
+        "ingles": "spend",
+        "espanol": "gastar",
+        "ejemplo": "This is an example sentence with spend."
+    },
+    {
+        "ingles": "sport",
+        "espanol": "deporte",
+        "ejemplo": "This is an example sentence with sport."
+    },
+    {
+        "ingles": "staff",
+        "espanol": "personal",
+        "ejemplo": "This is an example sentence with staff."
+    },
+    {
+        "ingles": "stage",
+        "espanol": "escenario",
+        "ejemplo": "This is an example sentence with stage."
+    },
+    {
+        "ingles": "stand",
+        "espanol": "estar",
+        "ejemplo": "This is an example sentence with stand."
+    },
+    {
+        "ingles": "standard",
+        "espanol": "estándar",
+        "ejemplo": "This is an example sentence with standard."
+    },
+    {
+        "ingles": "star",
+        "espanol": "estrella",
+        "ejemplo": "This is an example sentence with star."
+    },
+    {
+        "ingles": "start",
+        "espanol": "comienzo",
+        "ejemplo": "This is an example sentence with start."
+    },
+    {
+        "ingles": "state",
+        "espanol": "estado",
+        "ejemplo": "This is an example sentence with state."
+    },
+    {
+        "ingles": "statement",
+        "espanol": "declaración",
+        "ejemplo": "This is an example sentence with statement."
+    },
+    {
+        "ingles": "station",
+        "espanol": "estación",
+        "ejemplo": "This is an example sentence with station."
+    },
+    {
+        "ingles": "stay",
+        "espanol": "permanecer",
+        "ejemplo": "This is an example sentence with stay."
+    },
+    {
+        "ingles": "step",
+        "espanol": "paso",
+        "ejemplo": "This is an example sentence with step."
+    },
+    {
+        "ingles": "still",
+        "espanol": "todavía",
+        "ejemplo": "This is an example sentence with still."
+    },
+    {
+        "ingles": "stock",
+        "espanol": "valores",
+        "ejemplo": "This is an example sentence with stock."
+    },
+    {
+        "ingles": "stop",
+        "espanol": "detener",
+        "ejemplo": "This is an example sentence with stop."
+    },
+    {
+        "ingles": "store",
+        "espanol": "almacenar",
+        "ejemplo": "This is an example sentence with store."
+    },
+    {
+        "ingles": "story",
+        "espanol": "historia",
+        "ejemplo": "This is an example sentence with story."
+    },
+    {
+        "ingles": "strategy",
+        "espanol": "estrategia",
+        "ejemplo": "This is an example sentence with strategy."
+    },
+    {
+        "ingles": "street",
+        "espanol": "calle",
+        "ejemplo": "This is an example sentence with street."
+    },
+    {
+        "ingles": "strike",
+        "espanol": "Huelga",
+        "ejemplo": "This is an example sentence with strike."
+    },
+    {
+        "ingles": "strong",
+        "espanol": "fuerte",
+        "ejemplo": "This is an example sentence with strong."
+    },
+    {
+        "ingles": "structure",
+        "espanol": "estructura",
+        "ejemplo": "This is an example sentence with structure."
+    },
+    {
+        "ingles": "student",
+        "espanol": "estudiante",
+        "ejemplo": "This is an example sentence with student."
+    },
+    {
+        "ingles": "study",
+        "espanol": "estudiar",
+        "ejemplo": "This is an example sentence with study."
+    },
+    {
+        "ingles": "stuff",
+        "espanol": "cosas",
+        "ejemplo": "This is an example sentence with stuff."
+    },
+    {
+        "ingles": "style",
+        "espanol": "estilo",
+        "ejemplo": "This is an example sentence with style."
+    },
+    {
+        "ingles": "subject",
+        "espanol": "tema",
+        "ejemplo": "This is an example sentence with subject."
+    },
+    {
+        "ingles": "success",
+        "espanol": "éxito",
+        "ejemplo": "This is an example sentence with success."
+    },
+    {
+        "ingles": "successful",
+        "espanol": "exitoso",
+        "ejemplo": "This is an example sentence with successful."
+    },
+    {
+        "ingles": "such",
+        "espanol": "tal",
+        "ejemplo": "This is an example sentence with such."
+    },
+    {
+        "ingles": "suddenly",
+        "espanol": "De repente",
+        "ejemplo": "This is an example sentence with suddenly."
+    },
+    {
+        "ingles": "suffer",
+        "espanol": "sufrir",
+        "ejemplo": "This is an example sentence with suffer."
+    },
+    {
+        "ingles": "suggest",
+        "espanol": "sugerir",
+        "ejemplo": "This is an example sentence with suggest."
+    },
+    {
+        "ingles": "summer",
+        "espanol": "verano",
+        "ejemplo": "This is an example sentence with summer."
+    },
+    {
+        "ingles": "supply",
+        "espanol": "suministro",
+        "ejemplo": "This is an example sentence with supply."
+    },
+    {
+        "ingles": "support",
+        "espanol": "apoyo",
+        "ejemplo": "This is an example sentence with support."
+    },
+    {
+        "ingles": "suppose",
+        "espanol": "suponer",
+        "ejemplo": "This is an example sentence with suppose."
+    },
+    {
+        "ingles": "sure",
+        "espanol": "Por supuesto",
+        "ejemplo": "This is an example sentence with sure."
+    },
+    {
+        "ingles": "surprise",
+        "espanol": "sorpresa",
+        "ejemplo": "This is an example sentence with surprise."
+    },
+    {
+        "ingles": "system",
+        "espanol": "sistema",
+        "ejemplo": "This is an example sentence with system."
+    },
+    {
+        "ingles": "table",
+        "espanol": "mesa",
+        "ejemplo": "This is an example sentence with table."
+    },
+    {
+        "ingles": "take",
+        "espanol": "tomar",
+        "ejemplo": "This is an example sentence with take."
+    },
+    {
+        "ingles": "talk",
+        "espanol": "hablar",
+        "ejemplo": "This is an example sentence with talk."
+    },
+    {
+        "ingles": "target",
+        "espanol": "objetivo",
+        "ejemplo": "This is an example sentence with target."
+    },
+    {
+        "ingles": "task",
+        "espanol": "tarea",
+        "ejemplo": "This is an example sentence with task."
+    },
+    {
+        "ingles": "tax",
+        "espanol": "impuesto",
+        "ejemplo": "This is an example sentence with tax."
+    },
+    {
+        "ingles": "teach",
+        "espanol": "enseñar",
+        "ejemplo": "This is an example sentence with teach."
+    },
+    {
+        "ingles": "teacher",
+        "espanol": "profesor",
+        "ejemplo": "This is an example sentence with teacher."
+    },
+    {
+        "ingles": "team",
+        "espanol": "equipo",
+        "ejemplo": "This is an example sentence with team."
+    },
+    {
+        "ingles": "technology",
+        "espanol": "tecnología",
+        "ejemplo": "This is an example sentence with technology."
+    },
+    {
+        "ingles": "television",
+        "espanol": "televisión",
+        "ejemplo": "This is an example sentence with television."
+    },
+    {
+        "ingles": "tell",
+        "espanol": "contar",
+        "ejemplo": "This is an example sentence with tell."
+    },
+    {
+        "ingles": "tend",
+        "espanol": "tender",
+        "ejemplo": "This is an example sentence with tend."
+    },
+    {
+        "ingles": "term",
+        "espanol": "término",
+        "ejemplo": "This is an example sentence with term."
+    },
+    {
+        "ingles": "test",
+        "espanol": "prueba",
+        "ejemplo": "This is an example sentence with test."
+    },
+    {
+        "ingles": "than",
+        "espanol": "que",
+        "ejemplo": "This is an example sentence with than."
+    },
+    {
+        "ingles": "thank",
+        "espanol": "gracias",
+        "ejemplo": "This is an example sentence with thank."
+    },
+    {
+        "ingles": "that",
+        "espanol": "ese, eso",
+        "ejemplo": "This is an example sentence with that."
+    },
+    {
+        "ingles": "the",
+        "espanol": "el, la, los, las",
+        "ejemplo": "This is an example sentence with the."
+    },
+    {
+        "ingles": "themselves",
+        "espanol": "sí mismos",
+        "ejemplo": "This is an example sentence with themselves."
+    },
+    {
+        "ingles": "then",
+        "espanol": "entonces",
+        "ejemplo": "This is an example sentence with then."
+    },
+    {
+        "ingles": "theory",
+        "espanol": "teoría",
+        "ejemplo": "This is an example sentence with theory."
+    },
+    {
+        "ingles": "there",
+        "espanol": "ahí",
+        "ejemplo": "This is an example sentence with there."
+    },
+    {
+        "ingles": "therefore",
+        "espanol": "por lo tanto",
+        "ejemplo": "This is an example sentence with therefore."
+    },
+    {
+        "ingles": "they",
+        "espanol": "ellos",
+        "ejemplo": "This is an example sentence with they."
+    },
+    {
+        "ingles": "thing",
+        "espanol": "cosa",
+        "ejemplo": "This is an example sentence with thing."
+    },
+    {
+        "ingles": "think",
+        "espanol": "pensar",
+        "ejemplo": "This is an example sentence with think."
+    },
+    {
+        "ingles": "this",
+        "espanol": "esta",
+        "ejemplo": "This is an example sentence with this."
+    },
+    {
+        "ingles": "though",
+        "espanol": "aunque",
+        "ejemplo": "This is an example sentence with though."
+    },
+    {
+        "ingles": "through",
+        "espanol": "mediante",
+        "ejemplo": "This is an example sentence with through."
+    },
+    {
+        "ingles": "throughout",
+        "espanol": "en todo",
+        "ejemplo": "This is an example sentence with throughout."
+    },
+    {
+        "ingles": "throw",
+        "espanol": "lanzar",
+        "ejemplo": "This is an example sentence with throw."
+    },
+    {
+        "ingles": "thus",
+        "espanol": "así",
+        "ejemplo": "This is an example sentence with thus."
+    },
+    {
+        "ingles": "time",
+        "espanol": "hora",
+        "ejemplo": "This is an example sentence with time."
+    },
+    {
+        "ingles": "to",
+        "espanol": "a",
+        "ejemplo": "This is an example sentence with to."
+    },
+    {
+        "ingles": "today",
+        "espanol": "hoy",
+        "ejemplo": "This is an example sentence with today."
+    },
+    {
+        "ingles": "together",
+        "espanol": "juntos",
+        "ejemplo": "This is an example sentence with together."
+    },
+    {
+        "ingles": "tomorrow",
+        "espanol": "mañana",
+        "ejemplo": "This is an example sentence with tomorrow."
+    },
+    {
+        "ingles": "too",
+        "espanol": "también",
+        "ejemplo": "This is an example sentence with too."
+    },
+    {
+        "ingles": "top",
+        "espanol": "parte superior",
+        "ejemplo": "This is an example sentence with top."
+    },
+    {
+        "ingles": "total",
+        "espanol": "total",
+        "ejemplo": "This is an example sentence with total."
+    },
+    {
+        "ingles": "touch",
+        "espanol": "toque",
+        "ejemplo": "This is an example sentence with touch."
+    },
+    {
+        "ingles": "toward",
+        "espanol": "hacia",
+        "ejemplo": "This is an example sentence with toward."
+    },
+    {
+        "ingles": "town",
+        "espanol": "pueblo",
+        "ejemplo": "This is an example sentence with town."
+    },
+    {
+        "ingles": "track",
+        "espanol": "pista",
+        "ejemplo": "This is an example sentence with track."
+    },
+    {
+        "ingles": "trade",
+        "espanol": "comercio",
+        "ejemplo": "This is an example sentence with trade."
+    },
+    {
+        "ingles": "traditional",
+        "espanol": "tradicional",
+        "ejemplo": "This is an example sentence with traditional."
+    },
+    {
+        "ingles": "train",
+        "espanol": "entrenar",
+        "ejemplo": "This is an example sentence with train."
+    },
+    {
+        "ingles": "travel",
+        "espanol": "viaje",
+        "ejemplo": "This is an example sentence with travel."
+    },
+    {
+        "ingles": "treat",
+        "espanol": "tratar",
+        "ejemplo": "This is an example sentence with treat."
+    },
+    {
+        "ingles": "treatment",
+        "espanol": "tratamiento",
+        "ejemplo": "This is an example sentence with treatment."
+    },
+    {
+        "ingles": "tree",
+        "espanol": "árbol",
+        "ejemplo": "This is an example sentence with tree."
+    },
+    {
+        "ingles": "trip",
+        "espanol": "viaje",
+        "ejemplo": "This is an example sentence with trip."
+    },
+    {
+        "ingles": "trouble",
+        "espanol": "problema",
+        "ejemplo": "This is an example sentence with trouble."
+    },
+    {
+        "ingles": "true",
+        "espanol": "cierto",
+        "ejemplo": "This is an example sentence with true."
+    },
+    {
+        "ingles": "try",
+        "espanol": "tratar",
+        "ejemplo": "This is an example sentence with try."
+    },
+    {
+        "ingles": "turn",
+        "espanol": "giro",
+        "ejemplo": "This is an example sentence with turn."
+    },
+    {
+        "ingles": "type",
+        "espanol": "tipo",
+        "ejemplo": "This is an example sentence with type."
+    },
+    {
+        "ingles": "unclear",
+        "espanol": "poco claro",
+        "ejemplo": "This is an example sentence with unclear."
+    },
+    {
+        "ingles": "under",
+        "espanol": "debajo",
+        "ejemplo": "This is an example sentence with under."
+    },
+    {
+        "ingles": "understand",
+        "espanol": "entender",
+        "ejemplo": "This is an example sentence with understand."
+    },
+    {
+        "ingles": "unit",
+        "espanol": "unidad",
+        "ejemplo": "This is an example sentence with unit."
+    },
+    {
+        "ingles": "university",
+        "espanol": "universidad",
+        "ejemplo": "This is an example sentence with university."
+    },
+    {
+        "ingles": "until",
+        "espanol": "hasta",
+        "ejemplo": "This is an example sentence with until."
+    },
+    {
+        "ingles": "up",
+        "espanol": "arriba",
+        "ejemplo": "This is an example sentence with up."
+    },
+    {
+        "ingles": "upon",
+        "espanol": "sobre",
+        "ejemplo": "This is an example sentence with upon."
+    },
+    {
+        "ingles": "use",
+        "espanol": "utilizar",
+        "ejemplo": "This is an example sentence with use."
+    },
+    {
+        "ingles": "useful",
+        "espanol": "útil",
+        "ejemplo": "This is an example sentence with useful."
+    },
+    {
+        "ingles": "usually",
+        "espanol": "generalmente",
+        "ejemplo": "This is an example sentence with usually."
+    },
+    {
+        "ingles": "value",
+        "espanol": "valor",
+        "ejemplo": "This is an example sentence with value."
+    },
+    {
+        "ingles": "variety",
+        "espanol": "variedad",
+        "ejemplo": "This is an example sentence with variety."
+    },
+    {
+        "ingles": "various",
+        "espanol": "varios",
+        "ejemplo": "This is an example sentence with various."
+    },
+    {
+        "ingles": "version",
+        "espanol": "versión",
+        "ejemplo": "This is an example sentence with version."
+    },
+    {
+        "ingles": "very",
+        "espanol": "muy",
+        "ejemplo": "This is an example sentence with very."
+    },
+    {
+        "ingles": "view",
+        "espanol": "ver",
+        "ejemplo": "This is an example sentence with view."
+    },
+    {
+        "ingles": "village",
+        "espanol": "pueblo",
+        "ejemplo": "This is an example sentence with village."
+    },
+    {
+        "ingles": "visit",
+        "espanol": "visitar",
+        "ejemplo": "This is an example sentence with visit."
+    },
+    {
+        "ingles": "voice",
+        "espanol": "voz",
+        "ejemplo": "This is an example sentence with voice."
+    },
+    {
+        "ingles": "vote",
+        "espanol": "votar",
+        "ejemplo": "This is an example sentence with vote."
+    },
+    {
+        "ingles": "wait",
+        "espanol": "Espere",
+        "ejemplo": "This is an example sentence with wait."
+    },
+    {
+        "ingles": "walk",
+        "espanol": "caminar",
+        "ejemplo": "This is an example sentence with walk."
+    },
+    {
+        "ingles": "wall",
+        "espanol": "pared",
+        "ejemplo": "This is an example sentence with wall."
+    },
+    {
+        "ingles": "want",
+        "espanol": "querer",
+        "ejemplo": "This is an example sentence with want."
+    },
+    {
+        "ingles": "war",
+        "espanol": "guerra",
+        "ejemplo": "This is an example sentence with war."
+    },
+    {
+        "ingles": "watch",
+        "espanol": "reloj",
+        "ejemplo": "This is an example sentence with watch."
+    },
+    {
+        "ingles": "water",
+        "espanol": "agua",
+        "ejemplo": "This is an example sentence with water."
+    },
+    {
+        "ingles": "way",
+        "espanol": "camino",
+        "ejemplo": "This is an example sentence with way."
+    },
+    {
+        "ingles": "we",
+        "espanol": "nosotros",
+        "ejemplo": "This is an example sentence with we."
+    },
+    {
+        "ingles": "wear",
+        "espanol": "vestir",
+        "ejemplo": "This is an example sentence with wear."
+    },
+    {
+        "ingles": "week",
+        "espanol": "semana",
+        "ejemplo": "This is an example sentence with week."
+    },
+    {
+        "ingles": "weekend",
+        "espanol": "fin de semana",
+        "ejemplo": "This is an example sentence with weekend."
+    },
+    {
+        "ingles": "weight",
+        "espanol": "peso",
+        "ejemplo": "This is an example sentence with weight."
+    },
+    {
+        "ingles": "welcome",
+        "espanol": "bienvenido",
+        "ejemplo": "This is an example sentence with welcome."
+    },
+    {
+        "ingles": "well",
+        "espanol": "bien",
+        "ejemplo": "This is an example sentence with well."
+    },
+    {
+        "ingles": "what",
+        "espanol": "qué",
+        "ejemplo": "This is an example sentence with what."
+    },
+    {
+        "ingles": "whatever",
+        "espanol": "lo que sea",
+        "ejemplo": "This is an example sentence with whatever."
+    },
+    {
+        "ingles": "when",
+        "espanol": "cuando",
+        "ejemplo": "This is an example sentence with when."
+    },
+    {
+        "ingles": "where",
+        "espanol": "dónde",
+        "ejemplo": "This is an example sentence with where."
+    },
+    {
+        "ingles": "whether",
+        "espanol": "ya sea",
+        "ejemplo": "This is an example sentence with whether."
+    },
+    {
+        "ingles": "which",
+        "espanol": "cual",
+        "ejemplo": "This is an example sentence with which."
+    },
+    {
+        "ingles": "while",
+        "espanol": "mientras",
+        "ejemplo": "This is an example sentence with while."
+    },
+    {
+        "ingles": "white",
+        "espanol": "blanco",
+        "ejemplo": "This is an example sentence with white."
+    },
+    {
+        "ingles": "who",
+        "espanol": "quien",
+        "ejemplo": "This is an example sentence with who."
+    },
+    {
+        "ingles": "whole",
+        "espanol": "todo",
+        "ejemplo": "This is an example sentence with whole."
+    },
+    {
+        "ingles": "why",
+        "espanol": "por qué",
+        "ejemplo": "This is an example sentence with why."
+    },
+    {
+        "ingles": "wide",
+        "espanol": "amplio",
+        "ejemplo": "This is an example sentence with wide."
+    },
+    {
+        "ingles": "wife",
+        "espanol": "esposa",
+        "ejemplo": "This is an example sentence with wife."
+    },
+    {
+        "ingles": "will",
+        "espanol": "será",
+        "ejemplo": "This is an example sentence with will."
+    },
+    {
+        "ingles": "win",
+        "espanol": "ganar",
+        "ejemplo": "This is an example sentence with win."
+    },
+    {
+        "ingles": "window",
+        "espanol": "ventana",
+        "ejemplo": "This is an example sentence with window."
+    },
+    {
+        "ingles": "wish",
+        "espanol": "deseo",
+        "ejemplo": "This is an example sentence with wish."
+    },
+    {
+        "ingles": "with",
+        "espanol": "con",
+        "ejemplo": "This is an example sentence with with."
+    },
+    {
+        "ingles": "within",
+        "espanol": "dentro",
+        "ejemplo": "This is an example sentence with within."
+    },
+    {
+        "ingles": "without",
+        "espanol": "sin",
+        "ejemplo": "This is an example sentence with without."
+    },
+    {
+        "ingles": "woman",
+        "espanol": "mujer",
+        "ejemplo": "This is an example sentence with woman."
+    },
+    {
+        "ingles": "wonder",
+        "espanol": "preguntarse",
+        "ejemplo": "This is an example sentence with wonder."
+    },
+    {
+        "ingles": "word",
+        "espanol": "palabra",
+        "ejemplo": "This is an example sentence with word."
+    },
+    {
+        "ingles": "work",
+        "espanol": "trabajo",
+        "ejemplo": "This is an example sentence with work."
+    },
+    {
+        "ingles": "worker",
+        "espanol": "obrero",
+        "ejemplo": "This is an example sentence with worker."
+    },
+    {
+        "ingles": "world",
+        "espanol": "mundo",
+        "ejemplo": "This is an example sentence with world."
+    },
+    {
+        "ingles": "worry",
+        "espanol": "preocupación",
+        "ejemplo": "This is an example sentence with worry."
+    },
+    {
+        "ingles": "worth",
+        "espanol": "valor",
+        "ejemplo": "This is an example sentence with worth."
+    },
+    {
+        "ingles": "would",
+        "espanol": "haría",
+        "ejemplo": "This is an example sentence with would."
+    },
+    {
+        "ingles": "write",
+        "espanol": "escribir",
+        "ejemplo": "This is an example sentence with write."
+    },
+    {
+        "ingles": "wrong",
+        "espanol": "incorrecto",
+        "ejemplo": "This is an example sentence with wrong."
+    },
+    {
+        "ingles": "yeah",
+        "espanol": "sí",
+        "ejemplo": "This is an example sentence with yeah."
+    },
+    {
+        "ingles": "year",
+        "espanol": "año",
+        "ejemplo": "This is an example sentence with year."
+    },
+    {
+        "ingles": "yes",
+        "espanol": "sí",
+        "ejemplo": "This is an example sentence with yes."
+    },
+    {
+        "ingles": "yesterday",
+        "espanol": "ayer",
+        "ejemplo": "This is an example sentence with yesterday."
+    },
+    {
+        "ingles": "yet",
+        "espanol": "todavía",
+        "ejemplo": "This is an example sentence with yet."
+    },
+    {
+        "ingles": "you",
+        "espanol": "tú",
+        "ejemplo": "This is an example sentence with you."
+    },
+    {
+        "ingles": "young",
+        "espanol": "joven",
+        "ejemplo": "This is an example sentence with young."
+    },
+    {
+        "ingles": "yourself",
+        "espanol": "tú mismo",
+        "ejemplo": "This is an example sentence with yourself."
+    }
+]
